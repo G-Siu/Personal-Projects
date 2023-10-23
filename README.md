@@ -19,3 +19,7 @@ using this script. <br />
 #TODO is to finish the character saving and loading portion and other CS50
 non-code related requirements.
 -------------------------------------------------------------------------------
+### *PDF Merger*
+Simple pdf merger that I needed to merge train tickets together for ease of 
+printing. Made to be somewhat user friendly.
+-------------------------------------------------------------------------------
