@@ -45,27 +45,27 @@ for i in range(2, 1, -1):
     consumption_rate = [sub['consumption'] for sub in c]
     consumption_day = sum(consumption_rate)
 
-    # # Using another package to retrieve rates
-    # agile = Agile('N')  # N is the region code for Southern Scotland
-    # rate = agile.get_rates(start_day, end_day)['rate_list']
-    # rate.reverse()
-    #
-    # # Create list of per half hour consumption multiplied respective rate
-    # result = list(map(operator.mul, consumption_rate, rate))
-    # cost = round(sum(result)) / 100
-    # cost_string = f"£{cost}"
-    # cost_per_unit = f"£{round(cost / consumption_day, 2)}"
-    # # print(today)
-    # # print(cost)
-    #
-    # # Send data to Google Sheets
-    # json = {
-    #     "octopus": {
-    #         "date": str(start_day),
-    #         "consumption": str(consumption_day),
-    #         "standingCharge": str(standing_charge),
-    #         "cost": cost_string,
-    #         "costPerKWh": cost_per_unit,
-    #     }
-    # }
-    # upload_to_sheet = requests.post(url=SHEETY_PUT, json=json)
+    # Using another package to retrieve rates
+    agile = Agile('N')  # N is the region code for Southern Scotland
+    rate = agile.get_rates(start_day, end_day)['rate_list']
+    rate.reverse()
+
+    # Create list of per half hour consumption multiplied respective rate
+    result = list(map(operator.mul, consumption_rate, rate))
+    cost = round(sum(result)) / 100
+    cost_string = f"£{cost}"
+    cost_per_unit = f"£{round(cost / consumption_day, 2)}"
+    # print(today)
+    # print(cost)
+
+    # Send data to Google Sheets
+    json = {
+        "octopus": {
+            "date": str(start_day),
+            "consumption": str(consumption_day),
+            "standingCharge": str(standing_charge),
+            "cost": cost_string,
+            "costPerKWh": cost_per_unit,
+        }
+    }
+    upload_to_sheet = requests.post(url=SHEETY_PUT, json=json)
