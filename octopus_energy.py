@@ -9,13 +9,12 @@ from octopus_energy_api import oe_api
 STANDING_CHARGE_URL = ("https://api.octopus.energy/v1/products/AGILE-FLEX-22"
                        "-11-25/electricity-tariffs/E-1R-AGILE-FLEX-22-11-25"
                        "-N/standing-charges/")
-SHEETY_PUT = ("https://api.sheety.co/3dbfe1f109be8ab861bbb4646c950d9c"
-              "/octopusEnergyCostAgile/octopus")
+SHEETY_PUT = ""
 
-account_number = "A-D407CDAF"
-api_key = "sk_live_kqcdSYysmrE2nY6nHAbbikRk"
-mpan = "1800025429485"
-serial_number = "22M0236464"
+account_number = ""
+api_key = ""
+mpan = ""
+serial_number = ""
 
 energy_api = oe_api(account_number,
                     api_key,
@@ -23,7 +22,7 @@ energy_api = oe_api(account_number,
                     serial_number=serial_number)
 
 # Get consumption, standing charge, and cost per day
-for i in range(2, 1, -1):
+for i in range(1, 0, -1):
     # Get starting date with next date
     day_before = i
     day_after = i - 1
