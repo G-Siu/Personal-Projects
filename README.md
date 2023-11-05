@@ -7,11 +7,13 @@ rates. These are multiplied together to get the cost and summed for the
 day's total cost. <br />
 The data retrieved is uploaded to Google Sheets via Sheety.<br />
 04/11/2023: Now with Cost per kWh column.<br />
+05/11/2023: Update with columns for consumption rate, price, with cost per 
+half hour segments. New sheet for November added. <br />
 Possible  #TODO in future is to add user input to get product and tariff codes 
 to user personal electricity rates and prices. <br />
 Currently cannot add new sheet using the Sheety API. May require google API 
 directly to create new sheets. Transfer of project to google API may be 
-necessary.
+necessary. Should automate month/year for Sheety.
 -------------------------------------------------------------------------------
 ### *CS50 Final Project*
 The project outlined in CS50p is left up to me to work through, with the 
