@@ -54,12 +54,35 @@ for i in range(1, 0, -1):
     cost = round(sum(result)) / 100
     cost_string = f"£{cost}"
     cost_per_unit = f"£{round(cost / consumption_day, 2)}"
-    # print(today)
-    # print(cost)
 
-    # Send data to Google Sheets
+    # Consumption, price, cost per half hour
+    half_hour = list()
+    if len(consumption_rate) == 49 or len(consumption_rate) == 51:
+        len_cr = len(consumption_rate) - 1
+    else:
+        len_cr = len(consumption_rate)
+    for c in range(len_cr):
+        r = round(result[c], 3)
+        half_hour.append((f"{consumption_rate[c]} kWh x {rate[c]} p/kWh ="
+                          f" {r}p"))
+
+    # Set up half hour segments
+    dt = datetime.datetime.strptime("00:00", "%H:%M")
+    half_hour_time = list()
+    for n in half_hour:
+        next_dt = dt + datetime.timedelta(minutes=30)
+        half_hour_time.append(
+            "{:02d}:{:02d}{:02d}:{:02d}"
+            .format(dt.hour, dt.minute,
+                    next_dt.hour, next_dt.minute))
+        dt = next_dt
+    if len(half_hour) == 50:  # For BST adjustment
+        half_hour_time[48] = "24:0024:30"
+        half_hour_time[49] = "24:3025:00"
+
+    # Create json to send data
     json = {
-        "octopus": {
+        "nov23": {
             "date": str(start_day),
             "consumption": str(consumption_day),
             "standingCharge": str(standing_charge),
@@ -67,4 +90,20 @@ for i in range(1, 0, -1):
             "costPerKWh": cost_per_unit,
         }
     }
+    for data in range(len(half_hour)):
+        json["nov23"][half_hour_time[data]] = half_hour[data]
+
+    # Send data to Google Sheets
     upload_to_sheet = requests.post(url=SHEETY_PUT, json=json)
+
+    # print(len(half_hour))
+    # print(half_hour)
+    # print(len(half_hour_time))
+    # print(half_hour_time)
+    # print(len(rate))
+    # print(rate)
+    # print(len(consumption_rate))
+    # print(start_day)
+    # print(cost)
+    # print(json)
+    # print(len(json["octopus"]))
