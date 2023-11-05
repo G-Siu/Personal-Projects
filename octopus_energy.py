@@ -80,9 +80,13 @@ for i in range(1, 0, -1):
         half_hour_time[48] = "24:0024:30"
         half_hour_time[49] = "24:3025:00"
 
+    # New month adjustment
+    new_sheet_name = (calendar.month_name[start_day.month].lower()[0:3]
+                      + str(start_day.year)[2:])
+
     # Create json to send data
     json = {
-        "nov23": {
+        new_sheet_name: {
             "date": str(start_day),
             "consumption": str(consumption_day),
             "standingCharge": str(standing_charge),
@@ -91,10 +95,12 @@ for i in range(1, 0, -1):
         }
     }
     for data in range(len(half_hour)):
-        json["nov23"][half_hour_time[data]] = half_hour[data]
+        json[new_sheet_name][half_hour_time[data]] = half_hour[data]
 
     # Send data to Google Sheets
-    upload_to_sheet = requests.post(url=SHEETY_PUT, json=json)
+    sheety_put = (f"https://api.sheety.co/3dbfe1f109be8ab861bbb4646c950d9c"
+                  f"/octopusEnergyCostAgile/{new_sheet_name}")
+    upload_to_sheet = requests.post(url=sheety_put, json=json)
 
     # print(len(half_hour))
     # print(half_hour)
