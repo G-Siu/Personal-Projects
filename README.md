@@ -16,7 +16,10 @@ to user personal electricity rates and prices. <br />
 Currently cannot add new sheet using the Sheety API. May require google API 
 directly to create new sheets. Transfer of project to google API may be 
 necessary. Or use selenium to automate new sheet creation as a 'simpler' 
-workaround.
+workaround. <br />
+For robustness, program should pull latest date reported on Google Sheets. 
+This is so that in event of failure in data transfer, the missing rows can 
+be added up to the current day.
 -------------------------------------------------------------------------------
 ### *CS50 Final Project*
 The project outlined in CS50p is left up to me to work through, with the 
