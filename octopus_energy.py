@@ -42,7 +42,7 @@ for i in range(1, 0, -1):
     # Using package to get consumption rate
     c = energy_api.consumption(start_day, end_day)
     consumption_rate = [sub['consumption'] for sub in c]
-    consumption_day = sum(consumption_rate)
+    consumption_day = round(sum(consumption_rate), 3)
 
     # Using another package to retrieve rates
     agile = Agile('N')  # N is the region code for Southern Scotland
