@@ -4,7 +4,6 @@ import sys
 
 from random import randint
 
-
 # Used for a / an prefix
 p = inflect.engine()
 
@@ -13,18 +12,18 @@ CLASSES = ["Barbarian", "Bard", "Cleric", "Druid", "Fighter", "Monk",
 RACES = ["Dragonborn", "Dwarf", "Elf", "Gnome", "Half-Elf",
          "Halfing", "Half-Orc", "Human", "Tiefling"]
 ABILITY_SCORES = ["STR", "DEX", "CON", "INT", "WIS", "CHA"]
-
+CHAR_SCORE = {"STR": 10, "DEX": 10, "CON": 10, "INT": 10, "WIS": 10, "CHA": 10}
 
 class Character:
-    def __init__(self, char_class, race, score):
-        self.name = name
+    def __init__(self, char_name, char_class, race, score):
+        self.name = char_name
         self.char_class = char_class
         self.race = race
         self.score = score
 
 
 def main():
-    calculate_scores()
+    char_score = CHAR_SCORE
     while True:
         try:
             ask = input("Roll dice? Y/N ").lower().strip()
@@ -40,18 +39,20 @@ def main():
                                          "STR | DEX | CON | INT | WIS | "
                                          "CHA", char_score)
                     total_roll = roll + modifier
-                    print(f"You rolled {roll}. With a of {modifier}, your "
-                          f"total roll is {total_roll}!")
+                    print(f"You rolled {roll}. With a modifier of "
+                          f"{int(modifier)}, "
+                          f"your "
+                          f"total roll is {int(total_roll)}!")
                     continue
             else:
                 create = input("Create character? Y/N ").lower().strip()
                 if create == "y" or create == "yes":
-                    char_gender = char_genders()
+                    # char_gender = char_genders()
                     char_name = input("Name your character: ")
                     char_class = char_classes()
                     char_race = char_races()
                     char_score = calculate_scores(char_race)
-                    player_char = Character(char_gender, char_name, char_class, char_race, char_score)
+                    player_char = Character(char_name, char_class, char_race, char_score)
                     print(f"You are {player_char.name}, {p.an(player_char.race)} {player_char.char_class}!\n You're ability scores are: {player_char.score}")
                     continue
                 else:
@@ -70,7 +71,7 @@ def char_classes():
     while True:
         try:
             char_class = input("Class: ").lower().strip().capitalize()
-            if char_class in classes:
+            if char_class in CLASSES:
                 return char_class
             else:
                 raise NameError
@@ -118,7 +119,8 @@ def calculate_scores(char_race):
                 add_score = input("Add 1 to two ability scores. Type two "
                                   "with space between from STR | DEX | CON |"
                                   " INT | WIS\n").upper().split()
-                if len(add_score) == 2 and add_score[0] != add_score[1]:    # Prevents choosing same ability score twice
+                # Prevents choosing same ability score twice
+                if len(add_score) == 2 and add_score[0] != add_score[1]:
                     i = 0
                     for _ in range(len(add_score)):
                         match add_score[i]:
@@ -146,14 +148,19 @@ def calculate_scores(char_race):
                 pass
     # Random generation of character ability scores
     stats = []
-    for _ in range(len(ABILITY_SCORES)): # Loops per ability score
+    # Loops per ability score
+    for _ in range(len(ABILITY_SCORES)):
         stat = []
-        for _ in range(4): # To roll four times
-            stat.append(randint(1, 6)) # Rolls d6
-        stat.remove(min(stat)) # Remove smallest number
-        stats.append(sum(stat)) # Append the sum of the three die rolls
+        # To roll four times
+        for _ in range(4):
+            # Rolls d6
+            stat.append(randint(1, 6))
+        # Remove smallest number
+        stat.remove(min(stat))
+        # Append the sum of the three die rolls
+        stats.append(sum(stat))
     # Initialise ability score to add to
-    char_score = {"STR": 0, "DEX": 0, "CON": 0, "INT": 0, "WIS": 0, "CHA": 0}
+    char_score = CHAR_SCORE
     # User choose ability score to add rolled stats
     i = 0
     for _ in range(len(ABILITY_SCORES)):
@@ -193,7 +200,7 @@ def dice():
                     or roll_type.strip() == "2"):
                 die_count = 2
                 break
-            elif roll_type == "straight" or roll_type.strip() =="3":
+            elif roll_type == "straight" or roll_type.strip() == "3":
                 die_count = 1
                 break
             else:
