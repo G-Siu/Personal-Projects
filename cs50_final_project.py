@@ -14,15 +14,9 @@ RACES = ["Dragonborn", "Dwarf", "Elf", "Gnome", "Half-Elf",
 ABILITY_SCORES = ["STR", "DEX", "CON", "INT", "WIS", "CHA"]
 CHAR_SCORE = {"STR": 10, "DEX": 10, "CON": 10, "INT": 10, "WIS": 10, "CHA": 10}
 
-class Character:
-    def __init__(self, char_name, char_class, race, score):
-        self.name = char_name
-        self.char_class = char_class
-        self.race = race
-        self.score = score
-
 
 def main():
+    # Default modifier of 0
     char_score = CHAR_SCORE
     while True:
         try:
@@ -35,35 +29,43 @@ def main():
                     print(f"Critical fail!")
                 else:
                     # Get ability score modifiers and add to the random roll
-                    modifier = modifiers("Choose an ability score modifier: "
-                                         "STR | DEX | CON | INT | WIS | "
-                                         "CHA", char_score)
+                    modifier = modifiers(
+                        input("Choose an ability score modifier "
+                              "(STR | DEX | CON | INT | WIS | CHA): ")
+                        , char_score)
                     total_roll = roll + modifier
                     print(f"You rolled {roll}. With a modifier of "
                           f"{int(modifier)}, "
                           f"your "
                           f"total roll is {int(total_roll)}!")
                     continue
-            else:
+            elif ask == "n" or ask == "no":
                 create = input("Create character? Y/N ").lower().strip()
                 if create == "y" or create == "yes":
-                    # char_gender = char_genders()
-                    char_name = input("Name your character: ")
-                    char_class = char_classes()
-                    char_race = char_races()
-                    char_score = calculate_scores(char_race)
-                    player_char = Character(char_name, char_class, char_race, char_score)
-                    print(f"You are {player_char.name}, {p.an(player_char.race)} {player_char.char_class}!\n You're ability scores are: {player_char.score}")
+                    char_name, char_class, char_race, char_score = (
+                        create_character())
+                    print(f"You are {char_name}, "
+                          f"{p.an(char_race)} {char_class}!"
+                          f"\n You're ability scores are: {char_score}")
                     continue
-                else:
+                elif create == "n" or create == "no":
                     sys.exit("Thank you for playing!")
+                else:
+                    raise ValueError
         except ValueError:
             print("Invalid input")
-            pass
 
 
 # def character():
-    # Create or load
+# Create or load
+
+def create_character():
+    # char_gender
+    name = input("Name your character: ")
+    _class = char_classes()
+    race = char_races()
+    score = calculate_scores(race)
+    return name, _class, race, score
 
 
 def char_classes():
@@ -212,7 +214,7 @@ def dice():
     while True:
         try:
             # Check input is valid
-            number = input("How many die faces? " )
+            number = input("How many die faces? ")
             if number in die_list:
                 number_rolled = []
                 for _ in range(die_count):
