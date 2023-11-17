@@ -47,6 +47,12 @@ def main():
                     print(f"You are {char_name}, "
                           f"{p.an(char_race)} {char_class}!"
                           f"\n You're ability scores are: {char_score}")
+                    character_details = list()
+                    character_details.append(char_name)
+                    character_details.append(char_race)
+                    character_details.append(char_class)
+                    character_details.append(char_score)
+                    character_save(character_details)
                     continue
                 elif create == "n" or create == "no":
                     sys.exit("Thank you for playing!")
@@ -56,8 +62,12 @@ def main():
             print("Invalid input")
 
 
-# def character():
-# Create or load
+def character_save(details):
+    # Save character in local file
+    with open("dnd_characters.txt", "a") as f:
+        f.write(" ".join(str(item) for item in details))
+        f.write("\n")
+
 
 def create_character():
     # char_gender
