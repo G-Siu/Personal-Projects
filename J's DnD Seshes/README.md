@@ -32,52 +32,52 @@
 ### Player Characters 
 
 #### *Jessy (and parents)*
-<img src="jessy_and_parents.png" alt="image" width="500" height="auto">
+<img src="Images/jessy_and_parents.png" alt="image" width="500" height="auto">
 <br /><br />
 
 #### *Pip*
-<img src="pip.png" alt="image" width="500" height="auto">
+<img src="Images/pip.png" alt="image" width="500" height="auto">
 <br /><br />
 
 #### *Renfri*
-<img src="renfri.png" alt="image" width="500" height="auto">
+<img src="Images/renfri.png" alt="image" width="500" height="auto">
 <br /><br />
 
 #### *Lia*
-<img src="lia.png" alt="image" width="500" height="auto">
+<img src="Images/lia.png" alt="image" width="500" height="auto">
 <br /><br />
 
 ### NPC
 #### *Inara*
-<img src="inara.png" alt="image" width="500" height="auto">
+<img src="Images/inara.png" alt="image" width="500" height="auto">
 <br /><br />
 
 #### *Joshua*
-<img src="joshua.png" alt="image" width="500" height="auto">
+<img src="Images/joshua.png" alt="image" width="500" height="auto">
 <br /><br />
 
 #### *Akra*
-<img src="Akra.png" alt="image" width="500" height="auto">
+<img src="Images/Akra.png" alt="image" width="500" height="auto">
 <br /><br />
 
 #### *Lilli Nim*
-<img src="lilli_nim.png" alt="image" width="500" height="auto">
+<img src="Images/lilli_nim.png" alt="image" width="500" height="auto">
 <br /><br />
 
 #### *Arthur White*
-<img src="arthur_white.png" alt="image" width="500" height="auto">
+<img src="Images/arthur_white.png" alt="image" width="500" height="auto">
 <br /><br />
 
 #### *Merlin Mitheralfist*
-<img src="merlin_mitheralfist.png" alt="image" width="500" height="auto">
+<img src="Images/merlin_mitheralfist.png" alt="image" width="500" height="auto">
 <br /><br />
 
 #### *Kribi Mirlon*
-<img src="kribi_mirlon.png" alt="image" width="500" height="auto">
+<img src="Images/kribi_mirlon.png" alt="image" width="500" height="auto">
 <br /><br />
 
 #### *Baku (but with glasses)*
-<img src="baku.png" alt="image" width="500" height="auto">
+<img src="Images/baku.png" alt="image" width="500" height="auto">
 <br /><br />
 
 ## <u>**Summaries**</u>
