@@ -40,21 +40,28 @@ def main():
                           f"total roll is {int(total_roll)}!")
                     continue
             elif ask == "n" or ask == "no":
-                create = input("Create character? Y/N ").lower().strip()
-                if create == "y" or create == "yes":
-                    char_name, char_class, char_race, char_score = (
-                        create_character())
-                    print(f"You are {char_name}, "
-                          f"{p.an(char_race)} {char_class}!"
-                          f"\n You're ability scores are: {char_score}")
-                    character_details = list()
-                    character_details.append(char_name)
-                    character_details.append(char_race)
-                    character_details.append(char_class)
-                    character_details.append(char_score)
-                    character_save(character_details)
-                    continue
-                elif create == "n" or create == "no":
+                use_character = input("Would you like to use a character? "
+                                      "Y/N ").lower().strip()
+                if use_character == "y" or use_character == "yes":
+                    create_load = input("Create or load a character? "
+                                        "").lower(
+                    ).strip()
+                    if create_load == "create":
+                        char_name, char_class, char_race, char_score = (
+                            create_character())
+                        print(f"You are {char_name}, "
+                              f"{p.an(char_race)} {char_class}!"
+                              f"\n You're ability scores are: {char_score}")
+                        character_details = list()
+                        character_details.append(char_name)
+                        character_details.append(char_race)
+                        character_details.append(char_class)
+                        character_details.append(char_score)
+                        character_save(character_details)
+                        continue
+                    elif create_load == "load":
+
+                elif use_character == "n" or use_character == "no":
                     sys.exit("Thank you for playing!")
                 else:
                     raise ValueError
