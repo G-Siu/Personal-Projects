@@ -35,3 +35,7 @@ non-code related requirements.
 Simple pdf merger that I needed to merge train tickets together for ease of 
 printing. Made to be somewhat user friendly.
 -------------------------------------------------------------------------------
+### *Colour Detect*
+Detect RGB colour palette at mouse pointer (rather inelegantly). Found on 
+Stack Overflow, modified with a delay, so it doesn't continuously print. 
+Requires the 'pyautogui' package.
