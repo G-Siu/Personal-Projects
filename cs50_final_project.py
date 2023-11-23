@@ -47,20 +47,26 @@ def main():
                                         "").lower(
                     ).strip()
                     if create_load == "create":
-                        char_name, char_class, char_race, char_score = (
-                            create_character())
-                        print(f"You are {char_name}, "
-                              f"{p.an(char_race)} {char_class}!"
-                              f"\n You're ability scores are: {char_score}")
-                        character_details = list()
-                        character_details.append(char_name)
-                        character_details.append(char_race)
-                        character_details.append(char_class)
-                        character_details.append(char_score)
-                        character_save(character_details)
+                        character = create_character()
+                        print(f"You are {character[0]}, "
+                              f"{p.an(character[2])} {character[1]}!"
+                              f"\n You're ability scores are: {character[3]}")
+                        character_save(character)
                         continue
                     elif create_load == "load":
+                        with open("dnd_characters.txt", "r") as f:
+                            lines = f.readlines()
+                            count = 0
+                            for line in lines:
+                                count += 1
+                                print(count + " " + line.strip("\n"))
+                            character_choice = input("Enter character "
+                                                     "number: ")
+                            character_load = lines[character_choice]
 
+                        pass
+                    else:
+                        raise ValueError
                 elif use_character == "n" or use_character == "no":
                     sys.exit("Thank you for playing!")
                 else:
