@@ -31,7 +31,8 @@ def main():
                     # Get ability score modifiers and add to the random roll
                     modifier = modifiers(
                         input("Choose an ability score modifier "
-                              "(STR | DEX | CON | INT | WIS | CHA): ")
+                              "(STR | DEX | CON | INT | WIS | CHA): "
+                              "").upper().strip()
                         , char_score)
                     total_roll = roll + modifier
                     print(f"You rolled {roll}. With a modifier of "
@@ -40,33 +41,27 @@ def main():
                           f"total roll is {int(total_roll)}!")
                     continue
             elif ask == "n" or ask == "no":
-                use_character = input("Would you like to use a character? "
-                                      "Y/N ").lower().strip()
-                if use_character == "y" or use_character == "yes":
-                    create_load = input("Create or load a character? "
-                                        "").lower(
-                    ).strip()
-                    if create_load == "create":
-                        character = create_character()
-                        print(f"You are {character[0]}, "
-                              f"{p.an(character[2])} {character[1]}!"
-                              f"\n You're ability scores are: {character[3]}")
-                        character_save(character)
-                        continue
-                    elif create_load == "load":
-                        with open("dnd_characters.txt", "r") as f:
-                            lines = f.readlines()
-                            count = 0
-                            for line in lines:
-                                count += 1
-                                print(count + " " + line.strip("\n"))
-                            character_choice = input("Enter character "
-                                                     "number: ")
-                            character_load = lines[character_choice]
+                use_character = (input("Would you like to create or load a "
+                                       "character? ").lower().strip())
+                if use_character == "create":
+                    character = create_character()
+                    print(f"You are {character[0]}, "
+                          f"{p.an(character[2])} {character[1]}!"
+                          f"\n You're ability scores are: {character[3]}")
+                    character_save(character)
+                    continue
+                elif use_character == "load":
+                    with open("dnd_characters.txt", "r") as f:
+                        lines = f.readlines()
+                        count = 0
+                        for line in lines:
+                            count += 1
+                            print(count + " " + line.strip("\n"))
+                        character_choice = input("Enter character "
+                                                 "number: ")
+                        character_load = lines[character_choice]
 
-                        pass
-                    else:
-                        raise ValueError
+                    pass
                 elif use_character == "n" or use_character == "no":
                     sys.exit("Thank you for playing!")
                 else:
@@ -83,7 +78,6 @@ def character_save(details):
 
 
 def create_character():
-    # char_gender
     name = input("Name your character: ")
     _class = char_classes()
     race = char_races()
@@ -190,9 +184,10 @@ def calculate_scores(char_race):
     i = 0
     for _ in range(len(ABILITY_SCORES)):
         print(stats)
-        choose_stat = input(f"For a roll of {stats[i]}, "
-                            f"choose to assign to an ability score "
-                            f"STR | DEX | CON | INT | WIS | CHA\n")
+        choose_stat = (input(f"For a roll of {stats[i]}, "
+                             f"choose to assign to an ability score "
+                             f"STR | DEX | CON | INT | WIS | CHA\n").upper().
+                       strip())
         char_score[choose_stat] = stats[i]
         i += 1
     # Add race ability scores to character
