@@ -33,6 +33,9 @@ non-code related requirements.~~ <br />
 The ability to save and load a character is now available and functional. 
 <br />
 TODO make code more robust as only partially filters out user typing errors.
+<br />
+TODO should produce user-friendly prompts, such as race stats should be 
+displayed during character creation.
 -------------------------------------------------------------------------------
 ### *PDF Merger*
 Simple pdf merger that I needed to merge train tickets together for ease of 
