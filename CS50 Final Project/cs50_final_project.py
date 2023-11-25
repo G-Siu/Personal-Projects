@@ -13,6 +13,7 @@ RACES = ["Dragonborn", "Dwarf", "Elf", "Gnome", "Half-Elf",
          "Halfing", "Half-Orc", "Human", "Tiefling"]
 ABILITY_SCORES = ["STR", "DEX", "CON", "INT", "WIS", "CHA"]
 CHAR_SCORE = {"STR": 10, "DEX": 10, "CON": 10, "INT": 10, "WIS": 10, "CHA": 10}
+DIE_LIST = ["4", "6", "8", "10", "12", "20"]
 
 
 def main():
@@ -237,16 +238,16 @@ def dice():
         except:
             pass
 
-    die_list = ["4", "6", "8", "10", "12", "20"]
     while True:
         try:
             # Check input is valid
-            number = input("How many die faces? ")
-            if number in die_list:
+            number = input(f"How many die faces {', '.join(DIE_LIST)}? ")
+            if number in DIE_LIST:
                 number_rolled = []
-                for _ in range(die_count):
+                for i in range(die_count):
                     # Store rolled value, rolls number of times per die_count
                     number_rolled.append(randint(1, int(number)))
+                    print(f"Roll {i+1}: {number_rolled[i]}")
                 # Return number rolled according to roll type
                 if roll_type == "advantage" or roll_type == "1":
                     return max(number_rolled)
