@@ -11,7 +11,7 @@ The data retrieved is uploaded to Google Sheets via Sheety.<br />
 half hour segments. New sheet for November added. Automate month/year
 for Sheety put hyperlink and json header.<br />
 #### *TODO*
-Possible  #TODO in future is to add user input to get product and tariff codes 
+Possible TODO in future is to add user input to get product and tariff codes 
 to user personal electricity rates and prices. <br />
 Currently cannot add new sheet using the Sheety API. May require google API 
 directly to create new sheets. Transfer of project to google API may be 
@@ -28,8 +28,11 @@ interest in Critical Role, I chose to focus
 on a D&D dice roller that takes into account of a character's modifiers. 
 The character can be created or can be retrieved from previously created 
 using this script. <br />
-#TODO is to finish the character saving and loading portion and other CS50
-non-code related requirements.
+~~TODO is to finish the character saving and loading portion and other CS50
+non-code related requirements.~~ <br />
+The ability to save and load a character is now available and functional. 
+<br />
+TODO make code more robust as only partially filters out user typing errors.
 -------------------------------------------------------------------------------
 ### *PDF Merger*
 Simple pdf merger that I needed to merge train tickets together for ease of 
