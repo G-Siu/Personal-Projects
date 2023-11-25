@@ -47,21 +47,17 @@ def main():
                     character = create_character()
                     print(f"You are {character[0]}, "
                           f"{p.an(character[2])} {character[1]}!"
-                          f"\n You're ability scores are: {character[3]}")
+                          f"\nYou're ability scores are: {character[3]}")
                     character_save(character)
                     continue
                 elif use_character == "load":
-                    with open("dnd_characters.txt", "r") as f:
-                        lines = f.readlines()
-                        count = 0
-                        for line in lines:
-                            count += 1
-                            print(count + " " + line.strip("\n"))
-                        character_choice = input("Enter character "
-                                                 "number: ")
-                        character_load = lines[character_choice]
-
-                    pass
+                    character = character_load()
+                    print(f"You are {character[0]}, "
+                          f"{p.an(character[2])} {character[1]}!"
+                          f"\nYou're ability scores are: {character[3]}")
+                    # Convert string to dictionary
+                    char_score = eval(character[3])
+                    continue
                 elif use_character == "n" or use_character == "no":
                     sys.exit("Thank you for playing!")
                 else:
@@ -75,6 +71,18 @@ def character_save(details):
     with open("dnd_characters.txt", "a") as f:
         f.write(" ".join(str(item) for item in details))
         f.write("\n")
+
+
+def character_load():
+    with open("dnd_characters.txt", "r") as f:
+        lines = f.readlines()
+        count = 0
+        for line in lines:
+            count += 1
+            print(f"{count}. {line.strip('\n')}")
+        character_choice = input("Enter character "
+                                 "number: ")
+        return lines[int(character_choice) - 1].split(" ", 3)
 
 
 def create_character():
@@ -182,6 +190,7 @@ def calculate_scores(char_race):
     char_score = CHAR_SCORE
     # User choose ability score to add rolled stats
     i = 0
+    # Unintended: does not account for mistypes, and score can be overwritten
     for _ in range(len(ABILITY_SCORES)):
         print(stats)
         choose_stat = (input(f"For a roll of {stats[i]}, "
