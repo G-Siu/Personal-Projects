@@ -3,10 +3,12 @@
 #### Video Demo: [Youtube Link](<!--put link here-->)
 <div style="text-align: justify">
     <h4>
-    Description: The project outlined in CS50p is left up to me to work
-    through, with the minimum requirements of at least 3 functions in the code.
-    Along my current interest in Critical Role, I chose to focus on a D&D dice
-    roller that takes into account of a character's modifiers. The character can be
-    created or can be retrieved from previously created using this script.
+        Description: I chose to focus on a D&D dice roller that takes into 
+        account of a character's modifiers. The dice roll can be made as an 
+        advantage, disadvantage, or straight roll. The character can be
+        created and saved, and can also retrieve from a previously created 
+        character. Character creation includes basic classes and races. 
+        Race stats are added to the character's ability scores during 
+        character creation.
     </h4>
 </div>
