@@ -1,5 +1,7 @@
 # HERE BE PERSONAL PROJECTS
 ## **Projects Include:**
+<div style="text-align: justify">
+
 ### *Octopus Energy Cost*
 Retrieves household electricity consumption for Octopus Energy Agile with 
 half-hourly 
@@ -28,6 +30,11 @@ interest in Critical Role, I chose to focus
 on a D&D dice roller that takes into account of a character's modifiers. 
 The character can be created or can be retrieved from previously created 
 using this script. <br />
+Limitations include:
+- Not accounting proficiencies such as Rogue Expertise
+- Cannot roll different die faces at same time
+- Requires manually stating ability checks
+
 ~~TODO is to finish the character saving and loading portion and other CS50
 non-code related requirements.~~ <br />
 The ability to save and load a character is now available and functional. 
@@ -45,3 +52,4 @@ printing. Made to be somewhat user friendly.
 Detect RGB colour palette at mouse pointer (rather inelegantly). Found on 
 Stack Overflow, modified with a delay, so it doesn't continuously print. 
 Requires the 'pyautogui' package.
+</div>
