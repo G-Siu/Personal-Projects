@@ -9,6 +9,7 @@
         created and saved, and can also retrieve from a previously created 
         character. Character creation includes basic classes and races. 
         Race stats are added to the character's ability scores during 
-        character creation.
+        character creation. Does not account for proficiencies such as 
+        Rogue Expertise
     </h4>
 </div>
