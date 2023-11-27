@@ -1,4 +1,4 @@
-# CS50 final project, to be finished
+# CS50 final project
 import inflect
 import sys
 
@@ -102,10 +102,9 @@ def char_classes():
             if char_class in CLASSES:
                 return char_class
             else:
-                raise NameError
-        except NameError:
+                raise ValueError
+        except ValueError:
             print("Invalid class")
-            pass
 
 
 def char_races():
@@ -116,10 +115,9 @@ def char_races():
             if char_race in RACES:
                 return char_race
             else:
-                raise NameError
-        except:
+                raise ValueError
+        except ValueError:
             print("Invalid race")
-            pass
 
 
 def calculate_scores(char_race):
@@ -173,7 +171,7 @@ def calculate_scores(char_race):
                 else:
                     raise ValueError
             except ValueError:
-                pass
+                print("Invalid input")
     # Random generation of character ability scores
     stats = []
     # Loops per ability score
@@ -235,8 +233,8 @@ def dice():
                 break
             else:
                 raise ValueError
-        except:
-            pass
+        except ValueError:
+            print("Choose from options listed")
 
     while True:
         try:
@@ -259,7 +257,6 @@ def dice():
                 raise ValueError
         except ValueError:
             print("Invalid number")
-            pass
 
 
 if __name__ == "__main__":
