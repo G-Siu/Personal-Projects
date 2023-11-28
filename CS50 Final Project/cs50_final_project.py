@@ -212,7 +212,10 @@ def modifiers(chosen_score, char_score):
         if key in chosen_score:
             score_mod = char_score[key]
     # Calculate modifier
-    modifier = (score_mod - 10) / 2
+    try:
+        modifier = (score_mod - 10) / 2
+    except:
+        raise ValueError
     return modifier
 
 
