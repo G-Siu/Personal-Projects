@@ -43,11 +43,28 @@ def test_char_races(monkeypatch):
     char_race_two = project.char_races()
     assert char_race_one == "Elf"
     assert char_race_two == "Dragonborn"
-    # with pytest.raises(Exception) as e_info:
-    #     char_race_three = project.char_races()
-    # with pytest.raises(Exception) as e_info:
-    #     char_race_four = project.char_races()
+    with pytest.raises(Exception) as e_info:
+        char_race_three = project.char_races()
+    with pytest.raises(Exception) as e_info:
+        char_race_four = project.char_races()
 
 
-# def test_modifiers(monkeypatch):
-#     # Provide inputs
+def test_modifiers():
+    # Provide inputs
+    assert project.modifiers("STR",
+                             {"STR": 10, "DEX": 10, "CON": 10, "INT": 10,
+                              "WIS": 10, "CHA": 10}) == 0
+    assert project.modifiers("CON",
+                             {"STR": 10, "DEX": 10, "CON": 18, "INT": 10,
+                              "WIS": 10, "CHA": 10}) == 4
+    assert project.modifiers("INT",
+                             {"STR": 10, "DEX": 10, "CON": 10, "INT": 12,
+                              "WIS": 10, "CHA": 10}) == 1
+    with pytest.raises(ValueError):
+        project.modifiers("nonsense-word",
+                          {"STR": 10, "DEX": 10, "CON": 10, "INT": 12,
+                           "WIS": 10, "CHA": 10})
+    with pytest.raises(ValueError):
+        project.modifiers("123",
+                          {"STR": 10, "DEX": 10, "CON": 10, "INT": 12,
+                           "WIS": 10, "CHA": 10})
