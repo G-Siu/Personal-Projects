@@ -103,7 +103,7 @@
 ### Session 1
 
 <div style="text-align: justify">
-  Ok, I can't find a summary of session 1, so I'll give you a quick rundown of
+  I can't find a summary of session 1, so I'll give you a quick rundown of
   what I remember. So in the city of Mythrandir, on the continent of Terra, a
   team are being assembled by Akra, a teifling fighter and leader of the Slayers
   Take (a group that procures rare things for profit). Jessi (me) posing as a
