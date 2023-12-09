@@ -103,25 +103,35 @@
 ### Session 1
 
 <div style="text-align: justify">
-  I can't find a summary of session 1, so I'll give you a quick rundown of
-  what I remember. So in the city of Mythrandir, on the continent of Terra, a
-  team are being assembled by Akra, a teifling fighter and leader of the Slayers
-  Take (a group that procures rare things for profit). Jessi (me) posing as a
-  human bard is there just for the adventure and song inspo, Lia a human fighter,
-  Pip a teifing rouge and Renfri a half elf rouge. Akra tasks us with bringing
-  back basilisk fangs from Strom Wreck Isle and can collect info from a sorceress
-  called Inara. So we get a boat over with Joshua, and we get attacked by
-  Sahuagine. Lia manages to kill them, while I'm just being a pain in the ass and
-  singing at the back. We make it over to Storm Wreck Isle. While travelling
-  through the woods to the town of Dragons Rest, 2 zombies come upon us. Renfri
-  and Pip fuck off somewhere into the trees leaving me and Lia to fight them, but
-  I enchant one to flail around in the other direction drawing the others
-  attention. Because I was concentrating on the spell, my disguise hiding my
-  elven half slipped, and Lia saw, but never said anything. We make it to town,
-  everyone's on edge. We find a temole showing that they worship the dragon
-  Runara. We meet Inara there, and she tells us where we can find basilisks, but
-  also tasks us with finding out about why the island is plagued with zombies. We
-  head to the pub for the night. I perfor, and the team gets to know each other a
+  In the city of Mythrandir, on the continent of Terra, a
+  team are being assembled by Akra, a teifling fighter and leader of the Slayer's
+  Take (a group that procures rare things for profit). 
+  Jessi, posing as a human bard, is looking for adventure and inspiration 
+  in her songwriting.
+
+  Together with Lia, a human fighter, Pip, a teifing rogue, and Renfri a 
+  half-elf rogue, they are tasked by Akra to retrieve basilisk fangs from 
+  Storm Wreck Isle and collect information from a sorceress called Inara.  
+  After embarking on a boat with Joshua, the party is attacked by
+  Sahuagine. Lia manages to kill them, while Jessi sings encouragement at the 
+  back.
+
+  The party arrives at Storm Wreck Isle and travel to the 
+  town of Dragons Rest. 2 groups of zombies were awaiting them in the woods. 
+  Lia and Jessi engage the zombies, whilst Renfri and Pip wander 
+  into the trees. The fight was short, Jessi managing to enchant one zombie to 
+  flail around in the other direction drawing the others' attention. 
+  However, as Jessi was concentrating on the spell, her disguise slipped, 
+  revealing her half-elven lineage, where Lia was able to perceive but kept 
+  to herself.
+  
+  The party eventually make it to town, and are on edge. There they discover a 
+  temple that worships the dragon, Runara, and meet Inara within. Inara 
+  gives the party information as to the basilisks' whereabouts, and
+  also tasks them to find out the cause of the island's zombie infestation.
+  
+  Afterward, the party head to a pub to settle in for the night for much 
+  needed rest. Jessi performs, and the party gets to know each other a
   little.
 </div>
 
