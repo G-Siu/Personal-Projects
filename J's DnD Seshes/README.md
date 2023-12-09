@@ -103,41 +103,40 @@
 ### Session 1
 
 <div style="text-align: justify">
-  In the city of Mythrandir, on the continent of Terra, a
-  team are being assembled by Akra, a teifling fighter and leader of the Slayer's
-  Take (a group that procures rare things for profit). 
-  Jessi, posing as a human bard, is looking for adventure and inspiration 
-  in her songwriting.
+In the city of Mythrandir, on the continent of Terra, a
+team are being assembled by Akra, a teifling fighter and leader of the Slayer's
+Take (a group that procures rare things for profit). 
+Jessi, posing as a human bard, is looking for adventure and inspiration 
+in her songwriting.
 
-  Together with Lia, a human fighter, Pip, a teifing rogue, and Renfri a 
-  half-elf rogue, they are tasked by Akra to retrieve basilisk fangs from 
-  Storm Wreck Isle and collect information from a sorceress called Inara.  
-  After embarking on a boat with Joshua, the party is attacked by
-  Sahuagine. Lia manages to kill them, while Jessi sings encouragement at the 
-  back.
+Together with Lia, a human fighter, Pip, a teifing rogue, and Renfri a 
+half-elf rogue, they are tasked by Akra to retrieve basilisk fangs from 
+Storm Wreck Isle and collect information from a sorceress called Inara.  
+After embarking on a boat with Joshua, the party is attacked by
+Sahuagine. Lia manages to kill them, while Jessi sings encouragement at the 
+back.
 
-  The party arrives at Storm Wreck Isle and travel to the 
-  town of Dragons Rest. 2 groups of zombies were awaiting them in the woods. 
-  Lia and Jessi engage the zombies, whilst Renfri and Pip wander 
-  into the trees. The fight was short, Jessi managing to enchant one zombie to 
-  flail around in the other direction drawing the others' attention. 
-  However, as Jessi was concentrating on the spell, her disguise slipped, 
-  revealing her half-elven lineage, where Lia was able to perceive but kept 
-  to herself.
-  
-  The party eventually make it to town, and are on edge. There they discover a 
-  temple that worships the dragon, Runara, and meet Inara within. Inara 
-  gives the party information as to the basilisks' whereabouts, and
-  also tasks them to find out the cause of the island's zombie infestation.
-  
-  Afterward, the party head to a pub to settle in for the night for much 
-  needed rest. Jessi performs, and the party gets to know each other a
-  little.
+The party arrives at Storm Wreck Isle and travel to the 
+town of Dragons Rest. 2 groups of zombies were awaiting them in the woods. 
+Lia and Jessi engage the zombies, whilst Renfri and Pip wander 
+into the trees. The fight was short, Jessi managing to enchant one zombie to 
+flail around in the other direction drawing the others' attention. 
+However, as Jessi was concentrating on the spell, her disguise slipped, 
+revealing her half-elven lineage, where Lia was able to perceive but kept 
+to herself.
+
+The party eventually make it to town, and are on edge. There they discover a 
+temple that worships the dragon, Runara, and meet Inara within. Inara 
+gives the party information as to the basilisks' whereabouts, and
+also tasks them to find out the cause of the island's zombie infestation.
+
+Afterward, the party head to a pub to settle in for the night for much 
+needed rest. Jessi performs, and the party gets to know each other a
+little.
 </div>
 
 #### Song
 <div style="text-align: justify">
-    Song for 1st mission:
     
     In the land of Mythrandir, a grand adventure begins, a mission from the Slayers
     Take, one they're determined to win.
@@ -197,33 +196,37 @@
 </div>
 
 ### Session 2
-<div>
-    The party set off from The Dragon's Rest towards the observatory to investigate
-    the source of the undead and to find the missing sorcerer, Jensen. Whilst
-    moving through the woods, Lia hears the sound of Zombies approaching. 3 Zombies
-    attack the party who choose to stay and fight, managing to defeat them. A hoard
-    then arrives on the horizon but the party is saved by Runara, the Bronze Dragon
-    who resides on Stormwreck Isle. Runara thanks the party for attempting to
-    restore the natural order and protects them on their way to the observatory.
-    Once there the party are set upon by several skeletons. Pip and Renfri take
-    these out by using their rogue stealth and acrobatics. The party then make
-    their way up the observatory tower and come across Jensen's quarters where they
-    find a broken mirror with Elvish inscriptions that Renfri is able to decipher.
-    On the top floor of the observatory, the party encounter 3 skeletons, a now
-    dead and shackled Zombie Jensen and a mysterious hooded figure in black robes
-    chanting a spell in Elvish, Infernal and (what Inara later identifies as) Deep
-    Speech. The figure hears the party and vanishes, leaving behind a pulsating,
-    glowing purple orb. The party make quick work of the skeletons and Pip and Lia
-    investigate the orb. Jessy, having missed all her previous attacks against the
-    skeletons, fires the killing blow to take out Jensen. Both Lia and Jessy work
-    together to destroy the orb and the spell over the Isle is broken. The party
-    retires to Jensen's old quarters in the observatory tower and Renfri discovers
-    his diary in a hidden drawer.
+<div style="text-align: justify">
+The party set off from The Dragon's Rest towards the observatory to investigate
+the source of the undead and to find the missing sorcerer, Jensen. Whilst
+moving through the woods, Lia hears the sound of Zombies approaching. 
+Three Zombies attack the party who choose to stay and fight, managing 
+to defeat them. A hoard then arrives on the horizon but the party is 
+saved by Runara, the Bronze Dragon who resides on Stormwreck Isle. 
+Runara thanks the party for attempting to restore the natural order and 
+protects them on their way to the observatory.
+
+Once there, the party are set upon by several skeletons. Pip and Renfri take
+these out by using their rogue stealth and acrobatics. The party then make
+their way up the observatory tower and come across Jensen's quarters where they
+find a broken mirror with Elvish inscriptions that Renfri is able to decipher.
+
+On the top floor of the observatory, the party encounter three skeletons, a now
+dead and shackled Zombie Jensen, and a mysterious hooded figure in black robes
+chanting a spell in Elvish, Infernal and (what Inara later identifies as) Deep
+Speech. The figure hears the party and vanishes, leaving behind a pulsating,
+glowing purple orb. 
+
+The party make quick work of the skeletons and Pip and Lia
+investigate the orb. Jessy, having missed all her previous attacks against the
+skeletons, fires the killing blow to take out Jensen. Both Lia and Jessy work
+together to destroy the orb and the spell over the Isle is broken. The party
+retires to Jensen's old quarters in the observatory tower and Renfri discovers
+his diary in a hidden drawer.
 </div>
 
 #### Song
 <div>
-    Each session I generate and perform a wee song ?
     
     (Verse 1)
     In a land full of darkness, where shadows do roam,
