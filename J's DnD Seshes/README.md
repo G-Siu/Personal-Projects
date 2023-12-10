@@ -227,7 +227,7 @@ his diary in a hidden drawer.
 
 #### Song
 <div>
-    
+
     (Verse 1)
     In a land full of darkness, where shadows do roam,
     There's a hero, they say, but I don't feel at home.
@@ -279,23 +279,27 @@ his diary in a hidden drawer.
 
 ### Session 3
 <div style="text-align: justify">
-    The party stay the night in Jensen's quarters in the observatory. During that
-    time they eat food and read the pages of Jensen's diary which reveals a member
-    of the council of Mythrandir has been visiting the island. In the morning, they
-    ask Inara about the potions which she identifies to be the Good Hope, Haste and
-    Sanctuary potions. When asked about the council member, she says she has an
-    idea but doesn't reveal anything until Renfri presses her for more information
-    later on. She then reveals to Renfri that she is suspicious of Vespera
-    Shadowmire, her old mentor, who she knows has been leaving on various research
-    missions. She vows to confront her on her return to Mythrandir. The party then
-    enter the caves under the observatory and battle two basilisks, working
-    together using the shards of Jensen's mirror to defeat the basilisks with ease.
-    Pip and Renfri deal the final blows. On exiting the caves, Jessy's true
-    identity is revealed: she is in fact a half-elf, not a human and is 92 years
-    old. Whilst Pip and Lia are forgiving of Jessy, Renfri keeps her distance. The
-    party returns to the celebrating town of Dragon's Rest and are given free
-    drinks by the bartender Greg who asks them what they call themselves. At the
-    moment: The Cross Swords.
+The party stay the night in Jensen's quarters in the observatory. They eat 
+food and read the pages of Jensen's diary, revealing a member
+of the council of Mythrandir has been visiting the island. 
+
+In the morning, they ask Inara about the potions which she identifies to 
+be the Good Hope, Haste and Sanctuary potions. When asked about the 
+council member, she says she has an idea but doesn't reveal anything until 
+Renfri presses her for more information later on. She then reveals to 
+Renfri that she is suspicious of Vespera Shadowmire, her old mentor, who 
+she knows has been leaving on various research missions. She vows to 
+confront her on her return to Mythrandir. 
+
+The party enter the caves under the observatory and battle two 
+basilisks, working together using the shards of Jensen's mirror to defeat 
+them with ease. Pip and Renfri deal the final blows. 
+On exiting the caves, Jessy's true identity is revealed: she is in fact a 
+half-elf, not a human and is 92 years old. Whilst Pip and Lia are 
+forgiving of Jessy, Renfri keeps her distance. The
+party returns to the celebrating town of Dragon's Rest and are given free
+drinks by the bartender, Greg, who asks them what they call themselves. At the
+moment: The Cross Swords.
 </div>
 
 ### Session 4
