@@ -304,32 +304,39 @@ moment: The Cross Swords.
 
 ### Session 4
 <div style="text-align: justify">
-    The party is awoken by the sound of bells and witnesses the town of Dragon's
-    Rest reburying their dead and mourning the loss of Jensen. The party then waits
-    for Inara in the library and return as a group to Mythrandir where they receive
-    their bounty. Inara gives them a map of the city and says she will be back in
-    touch. The party explore the city. They first enter The Crimson Sash clothing
-    store and meet an elderly gnome called Lilli Nim who repairs their tattered
-    clothes and designs their outfits with the Cross Swords symbol. The party then
-    split up to explore further. Renfri, with the goal to steal from the rich,
-    tries to enter the Inner Sanctum through the main gate but it is guarded.
-    Instead she enters the Temple of Bahamut but decides that this is not the place
-    to steal and joins Lia in the Magic Shop, Jinx and Trinkets. Lia, with the goal
-    to improve her magic abilities, meets Kribi Mirlon, the Magic Shop owner, who
-    creates a perception potion for her. Both go to join Pip and Jessy at the
-    weapons shop: Tintagel Weapon Shop. Pip and Jessy meet Merlin and his
-    apprentice Arthur and receive new weapons and upgrades to their armour. Renfri
-    also receives an upgrade when she arrives. The party then go to The Green
-    Dragon pub where Jessy performs for the crowd. Pip notices the symbol of The
-    Swallow Thieves Guild and enters the secret underground lair where she
-    encounters an old friend of her father: the leader of The Swallows, a half-orc
-    named Baku. Armed with new illicit trinkets, she returns to the group and a
-    very suspicious Renfri. The party rest for the night and return to The Slayer's
-    Take where there is a notice from the local farmer asking for help to kill an
-    Ankheg in exchange for 10 Gold and a horse and cart. Akra approaches Jessy and
-    reveals that a high level political client has offered a large amount of money
-    for the theft of the silver dragon egg in the study of Soros Davino, the leader
-    of the Myrandir Council.
+The Cross Swords are awoken by the sound of bells and witnesses the town of 
+Dragon's Rest reburying their dead and mourning the loss of Jensen. The 
+party waits for Inara in the library and return as a group to Mythrandir 
+where they receive their bounty. Inara gives them a map of the city and 
+says she will be back in touch. 
+
+The party explore the city. They first enter The Crimson Sash clothing
+store and meet an elderly gnome called Lilli Nim who repairs their tattered
+clothes and designs their outfits with the Cross Swords symbol. The party then
+split up to explore further. 
+
+Renfri, with the goal to steal from the rich, tries to enter the Inner 
+Sanctum through the main gate, but it is guarded. Instead, she enters the 
+Temple of Bahamut, though decides that this is not the place
+to steal and joins Lia in the Magic Shop, Jinx and Trinkets. 
+
+Lia, with the goal to improve her magic abilities, meets Kribi Mirlon, the 
+Magic Shop owner, who creates a perception potion for her. Both go to join 
+Pip and Jessy at the weapons shop: Tintagel Weapon Shop. Pip and Jessy meet 
+Merlin and his apprentice Arthur and receive new weapons and upgrades to 
+their armour. Renfri also receives an upgrade when she arrives. The party 
+then go to The Green Dragon pub where Jessy performs for the crowd. Pip 
+notices the symbol of The Swallow Thieves Guild and enters the secret 
+underground lair where she encounters an old friend of her father, the 
+leader of The Swallows, a half-orc named Baku. Armed with new illicit 
+trinkets, she returns to the group and a very suspicious Renfri. T
+
+The party rest for the night and return to The Slayer's Take where there is 
+a notice from the local farmer asking for help to kill an Ankheg in 
+exchange for 10 Gold and a horse and cart. Akra approaches Jessy and
+reveals that a high level political client has offered a large amount of money
+for the theft of the silver dragon egg in the study of Soros Davino, the leader
+of the Myrandir Council.
 </div>
 
 ### Session 5
