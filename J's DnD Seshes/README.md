@@ -341,54 +341,62 @@ of the Myrandir Council.
 
 ### Session 5
 <div style="text-align: justify">
-    The party organised their outfits with Lilli Nim and returned to The Slayer's
-    Take where Akra asked them for a rundown of their plan to enter the mansion.
-    Inara called via the earring and said she was going to confront Vespera
-    Shadowmire at the party and that she had a +1 ticket. Renfri took the ticket
-    and organised to attend with Inara. Pip and Lia decided to take the 2 tickets
-    provided by Akra's client and pretend to be nobles from Klegas. Jessy met with
-    her rival, Adran Amastacia, the lead singer of The Fleetwood Trio, and
-    bargained her way into joining the band who had been booked as entertainment.
-    On arriving at the mansion, Pip and Lia bumped into Kribi who revealed he was a
-    member of the council and the three of them had many drinks. Renfri was
-    introduced to Soros Davino (the leader of the council) and Lyslyl Strongsong (a
-    paladin from the Temple of Bahamut and member of the council). Everyone was
-    gathered in the dining room where Soros gave a speech about the nations coming
-    together in peace. During the meal, the party met Vespera Shadowmire who was
-    wearing a necklace that Renfri recognised immediately. She remarked to Jessy "
-    Is that the name you are going by nowadays?" She then told Pip and Lia that she
-    has some upcoming business near Klegas but was unsure if she would make The
-    Festival of the Hunt. After dinner she excused herself and left quickly,
-    followed swiftly by Inara. Whilst the party scouted the mansion, Renfri hears
-    the word "Ren-" before silence. She rushed to the main door and asked the
-    guards what had happened. They were unresponsive and clearly under a spell.
-    Renfri called for Jessy who was able to break the spell and the guards revealed
-    that Vespera and Inara had argued before Vespera had grabbed Inara saying "I
-    need another sorcerer now anyway" and both had disappeared. Whilst Jessy went
-    to break the news of Inara's kidnap to the council, Pip managed to scale the
-    building and land on the upper balconies revealing two small bedrooms and a
-    master bedroom. The doors were sealed with magic and she couldn't get in. Lia
-    overheard Soros saying that the room was secure as the guards had the keys and
-    swiped a set of keys from an unsuspecting guard which she handed to Renfri. On
-    the second floor, Lia and Renfri managed to trick a guard into following them
-    into Inara's guest room where they locked him in. Lia then distracted the final
-    guard by trying to flirt with him whilst Renfri snuck up onto the top floor.
-    There she encountered a sleeping Hellhound and struggled to put the keys in the
-    lock. This woke the hellhound. Renfri managed to get through the door and over
-    to the balcony to open the window for Pip as the Hellhound attacked. She sent a
-    signal to the team for help. Hearing this Jessy joined Lia on the second floor
-    and charmed the final guard who let them past. Pip was able to talk to the
-    Hellhound using Infernal and was able to encourage it out onto the balcony. Lia
-    picked up a lamp from outside the room and the party was able to use this to
-    solve the mirror riddle. Once inside the study they came across a Gargoyle who
-    asked a riddle. Lia was able to remember the speech Soros had given at dinner
-    and gave the answer: Footsteps. The Gargoyle released the Silver Dragon Egg and
-    Pip and Lia managed to carry it outside. Renfri and Pip made graceful landings
-    when jumping off the balcony, Lia did not. The egg made it safely. Jessy
-    returned to the band. Pip retrieved Inara's carriage and took Lia and Renfri
-    back to The Slayer's Take where Akra stored the egg in a secret room under the
-    floorboards. The Fleetwood Trio then burst into The Slayer's Take to reveal
-    that Jessy's charm had worn off the guard and that she had been arrested.
+The Cross Swords organised their outfits with Lilli Nim and returned to The 
+Slayer's Take where Akra asked them for a rundown of their plan to enter 
+the mansion. Inara called via the earring and said she was going to 
+confront Vespera Shadowmire at the party and that she had a +1 ticket. 
+Renfri took the ticket and organised to attend with Inara. Pip and Lia 
+decided to take the 2 tickets provided by Akra's client and pretend to be 
+nobles from Klegas. Jessy met with her rival, Adran Amastacia, the lead 
+singer of The Fleetwood Trio, and bargained her way into joining the band 
+who had been booked as entertainment.
+
+On arriving at the mansion, Pip and Lia bumped into Kribi who revealed he was a
+member of the council and the three of them had many drinks. Renfri was
+introduced to Soros Davino (the leader of the council) and Lyslyl Strongsong (a
+paladin from the Temple of Bahamut and member of the council). Everyone was
+gathered in the dining room where Soros gave a speech about the nations coming
+together in peace. During the meal, the party met Vespera Shadowmire who was
+wearing a necklace that Renfri recognised immediately. She remarked to Jessy "
+Is that the name you are going by nowadays?" She then told Pip and Lia that she
+has some upcoming business near Klegas but was unsure if she would make The
+Festival of the Hunt. 
+
+After dinner she excused herself and left quickly, followed swiftly by 
+Inara. Whilst the party scouted the mansion, Renfri hears  the word "Ren-" 
+before silence. She rushed to the main door and asked the guards what had 
+happened. They were unresponsive and clearly under a spell.
+Renfri called for Jessy who was able to break the spell and the guards revealed
+that Vespera and Inara had argued before Vespera had grabbed Inara saying "I
+need another sorcerer now anyway" and both had disappeared. 
+
+Whilst Jessy went to break the news of Inara's kidnap to the council, Pip 
+managed to scale the building and land on the upper balconies revealing two 
+small bedrooms and a master bedroom. The doors were sealed with magic and 
+she couldn't get in. Lia overheard Soros saying that the room was secure as 
+the guards had the keys and swiped a set of keys from an unsuspecting guard 
+which she handed to Renfri. On the second floor, Lia and Renfri managed to 
+trick a guard into following them into Inara's guest room where they locked 
+him in. Lia then distracted the final guard by trying to flirt with him 
+whilst Renfri snuck up onto the top floor. There she encountered a sleeping 
+Hellhound and struggled to put the keys in the lock. This woke the 
+hellhound. Renfri managed to get through the door and over to the balcony 
+to open the window for Pip as the Hellhound attacked. She sent a signal to 
+the team for help. Hearing this Jessy joined Lia on the second floor and 
+charmed the final guard who let them past. Pip was able to talk to the
+Hellhound using Infernal and was able to encourage it out onto the balcony. Lia
+picked up a lamp from outside the room and the party was able to use this to
+solve the mirror riddle. 
+
+Once inside the study they came across a Gargoyle who asked a riddle. Lia 
+was able to remember the speech Soros had given at dinner and gave the 
+answer: Footsteps. The Gargoyle released the Silver Dragon Egg and
+Pip and Lia managed to carry it outside. Renfri and Pip made graceful landings
+when jumping off the balcony, Lia did not. The egg made it safely. Jessy
+returned to the band. Pip retrieved Inara's carriage and took Lia and Renfri
+back to The Slayer's Take where Akra stored the egg in a secret room under the
+floorboards. The Fleetwood Trio then burst into The Slayer's Take to reveal
+that Jessy's charm had worn off the guard and that she had been arrested.
 </div>
 
 ### Session 6
