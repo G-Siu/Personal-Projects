@@ -401,60 +401,68 @@ that Jessy's charm had worn off the guard and that she had been arrested.
 
 ### Session 6
 <div style="text-align: justify">
-    On finding out Jessy had been arrested, Akra told the party to get rid of
-    Inara's carriage and find somewhere to hide till the exchange for the dragon
-    egg had been made. Pip got rid of the carriage outside the city and was able to
-    sneak back in to meet Renfri and Lia at the local tavern. Pip took the pair
-    into the Swallow's Den where they met Pip's uncle Baku who let them rest the
-    night and sent his Swallows out to find out where Jessy was being kept. He also
-    gave Pip a cloak of Elvenkind as a gift. Baku recognised Lia's last name,
-    Strongbrooke, and revealed that he knows her father well and is currently doing
-    business with her brother. The party make a plan and one of Baku's Swallows, a
-    gnome named Baldur, dimension doored them into a cupboard in the council.
-    During this time, Jessy was making music in her cell with a halfling named
-    Bolger who was in for not paying his taxes. She sent a message to the party
-    saying that she had been arrested and gave a rough location of the cell she was
-    in. Lia attempted to draw the guards away from the servant quarter doors by
-    causing a distraction but it didn't work. Pip put on a janitor's outfit and
-    convinced the guard that she was finishing up the back shift. The guard
-    followed Pip into the servant quarters whilst Lia stayed hidden in the main
-    hall and Renfri kept watch from the cupboard. Inside the servant quarters, Pip
-    watched two guards exit the staircase guarded by a gargoyle and saw two other
-    guards replace them using the password "sandstone". Pip then knocked out the
-    guard watching her and used the password to sneak downstairs. At this point Lia
-    snuck into the room and was able to send a message to Pip to get the password.
-    Lia and Pip made their way through the underground jail and passed a cell which
-    had a gnome inside called Nom who asked to be released. Pip agreed to release
-    him if he would help save Jessy. Nom agreed. Jessy's cell was guarded by the
-    two guards from the changeover and a hellhound. Pip pushed Nom forward who
-    struck the hellhound with blue lighting magic and it chased him back towards
-    the exit. Pip and Lia attacked the guards with the aid of Jessy who managed to
-    steal keys off the distracted guards. Once free, Jessy offered freedom to
-    Bolger who refused. Reunited, Jessy, Lia and Pip made their way back to the
-    exit and came across Nom who was laughing hysterically and ripping apart the
-    hellhound with his hands. They all retreated back up to the servant's quarters.
-    Meanwhile, from her vantage point Renfri watched as Soros entered the council
-    main hall with an older woman dressed in green robes laced with bronze. She had
-    a tiara-like headpiece embedded with emeralds and made of bronze with two
-    pieces that went up like horns. She turned to the cupboard asked Renfri to come
-    out. Renfri informs Baku through the dimension door that they may be
-    compromised and he closes the portal. Renfri exits and discovers the woman is
-    Runara, the bronze dragon from Stormwreck Isle, in human form. Nom peaks out
-    the door of the servant quarters, sees Soros and Runara and disappears
-    immediately. Runara calls the party out and they all reunite. She brings news
-    that a hoard of undead have been seen around the Metal Mines, south from the
-    city of Klegas. She enlists the party's aid and Soros agrees to this saying
-    that if they solve this they will be absolved of their crimes. He also asks for
-    the return of the silver dragon egg. The party, now free and with a mission for
-    the council and Runara, return to The Slayer's Take where Akra gives them their
-    earnings from the dragon egg heist and a map of the continent. The party
-    undertake a mission from The Hunt Board in The Slayer's Take and help farmer
-    Bran Brightwood kill an Ankheg that has been terrorising his sheep. In exchange
-    for their help he gives them 10 gold and the use of a horse and cart. The party
-    choose Beauty, a black gypsy cob with a speck of white on her forehead who
-    seems calm and friendly. As part of the deal they have to take her son, a pony
-    yet to be named. The party look forward to pimping their cart as their journey
-    continues.
+On finding out Jessy had been arrested, Akra told the party to get rid of
+Inara's carriage and find somewhere to hide till the exchange for the dragon
+egg had been made. Pip got rid of the carriage outside the city and was able to
+sneak back in to meet Renfri and Lia at the local tavern. Pip took the pair
+into the Swallow's Den where they met Pip's uncle Baku who let them rest the
+night and sent his Swallows out to find out where Jessy was being kept. He also
+gave Pip a cloak of Elvenkind as a gift. Baku recognised Lia's last name, 
+Strongbrooke, and revealed that he knows her father well and is currently 
+doing business with her brother. The party make a plan and one of Baku's 
+Swallows, a gnome named Baldur, dimension doored them into a cupboard in 
+the council.
+
+During this time, Jessy was making music in her cell with a halfling named
+Bolger who was in for not paying his taxes. She sent a message to the party
+saying that she had been arrested and gave a rough location of the cell she was
+in. Lia attempted to draw the guards away from the servant quarter doors by
+causing a distraction, but it didn't work. Pip put on a janitor's outfit and
+convinced the guard that she was finishing up the back shift. The guard
+followed Pip into the servant quarters whilst Lia stayed hidden in the main
+hall and Renfri kept watch from the cupboard. Inside the servant quarters, Pip
+watched two guards exit the staircase guarded by a gargoyle and saw two other
+guards replace them using the password "sandstone". Pip then knocked out the
+guard watching her and used the password to sneak downstairs. 
+
+At this point Lia snuck into the room and was able to send a message to Pip 
+to get the password. Lia and Pip made their way through the underground 
+jail and passed a cell which had a gnome inside called Nom who asked to be 
+released. Pip agreed to release him if he would help save Jessy. Nom agreed.
+Jessy's cell was guarded by the two guards from the changeover and a 
+hellhound. Pip pushed Nom forward who struck the hellhound with blue 
+lighting magic and it chased him back towards the exit. Pip and Lia 
+attacked the guards with the aid of Jessy who managed to steal keys off the 
+distracted guards. Once free, Jessy offered freedom to Bolger who refused.
+
+Reunited, Jessy, Lia and Pip made their way back to the exit and came 
+across Nom who was laughing hysterically and ripping apart the hellhound 
+with his hands. They all retreated back up to the servant's quarters. 
+Meanwhile, from her vantage point Renfri watched as Soros entered the council
+main hall with an older woman dressed in green robes laced with bronze. She had
+a tiara-like headpiece embedded with emeralds and made of bronze with two
+pieces that went up like horns. She turned to the cupboard asked Renfri to come
+out. Renfri informs Baku through the dimension door that they may be
+compromised, and he closes the portal. 
+
+Renfri exits and discovers the woman is Runara, the bronze dragon from 
+Stormwreck Isle, in human form. Nom peaks out the door of the servant 
+quarters, sees Soros and Runara and disappears immediately. Runara calls 
+the party out and they all reunite. She brings news that a hoard of undead 
+have been seen around the Metal Mines, south from the city of Klegas. She 
+enlists the party's aid and Soros agrees to this saying that if they solve 
+this they will be absolved of their crimes. He also asks for the return of 
+the silver dragon egg. The party, now free and with a mission for the 
+council and Runara, return to The Slayer's Take where Akra gives them their
+earnings from the dragon egg heist and a map of the continent. 
+
+The party undertake a mission from The Hunt Board in The Slayer's Take and 
+help farmer Bran Brightwood kill an Ankheg that has been terrorising his 
+sheep. In exchange for their help he gives them 10 gold and the use of a 
+horse and cart. The party choose Beauty, a black gypsy cob with a speck of 
+white on her forehead who seems calm and friendly. As part of the deal they 
+have to take her son, a pony yet to be named. The party look forward to 
+pimping their cart as their journey continues.
 </div>
 
 ### Session 7
