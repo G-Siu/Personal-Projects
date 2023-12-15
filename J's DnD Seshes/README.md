@@ -508,36 +508,42 @@ Nowhere.
 
 ### Session 7.5 - The Dancing Horse Mini-Chapter.
 <div style="text-align: justify">
-    The party arrived in Nowhere. Renfri excused herself saying that there was
-    someone she needed to check in on and that the party should explore the village
-    for a bit. Pip went into the market and brought apples back for the horses. She
-    tried learning how to juggle and taught Beauty and Blitz to approach her on
-    command and taught Beauty how to ride in a circle with her standing on her
-    back. Along with Jessy, they devised a spectacular performance for the village.
-    Lia took Blitz into the market to have a look around. Suddenly everyone's
-    attention is drawn to the bridge where Pip and Jessy ride up the market street.
-    Jessy falls into the fountain in the village square whilst Pip rides beauty
-    around it. They dazzle the crowd earning 123 copper coins which Lia collects.
-    Lia and Blitz start hyping up the crowd and Pip and Jessy perform another
-    routine to more rapturous applause, earning 86 more copper. Kids in the village
-    pet the horses and follow them back to the field. Lia, Pip and Jessy go into
-    the tavern to spend their copper, drink mead and play two truths, one lie.
-    Jessy: I am blond (lie), I can play all instruments (true - badly), I slept
-    with Adran (true). Lia - I am a trained hairdresser (true), I have some skill
-    in mechanics (true), I partake in my dad's dodgy business (lie). Pip - I do not
-    have blue skin (lie), my family are all tatoo artists (true), I have a brother
-    who is kinda like a dog (true). They notice that the town is mainly made up of
-    humans though there are 3 half-elves keeping to themselves at the back of the
-    tavern. When they ask the barman about this he reveals that there has been
-    tensions between the elves and people in the village. He says he can't stand
-    elven kind and preferred the music of the group's performance to the singing of
-    the elves the previous night. Pip, Lia and Jessy start to feel very
-    uncomfortable and take their mead to go. Back at the cart, Jessy and Lia read.
-    Jessy learns more about uncommon undead, including Liths, and Lia learns about
-    the monsters of the plains. Pip starts drawing the party's adventures so far on
-    the cart. She also notices that a few scales on her armour have been moved.
-    Jessy uses the spell Detect Magic to try to see if there is someone there. The
-    spell only picks up the magical aura on Pip's cloak of Elvenkind and Jessy's
-    necklace. This is news to Jessy. Jessy sends Renfri a magical scroll to say
-    they are chilling at the cart and will wait for her to return.
+The Crossed Swords arrived in Nowhere. Renfri excused herself saying that 
+there was someone she needed to check in on and that the party should 
+explore the village for a bit. Pip went into the market and brought apples 
+back for the horses. She tried learning how to juggle and taught Beauty and 
+Blitz to approach her on command and taught Beauty how to ride in a circle 
+with her standing on her back. Along with Jessy, they devised a spectacular 
+performance for the village.
+
+Lia took Blitz into the market to have a look around. Suddenly everyone's
+attention is drawn to the bridge where Pip and Jessy ride up the market street.
+Jessy falls into the fountain in the village square whilst Pip rides beauty
+around it. They dazzle the crowd earning 123 copper coins which Lia collects.
+Lia and Blitz start hyping up the crowd and Pip and Jessy perform another
+routine to more rapturous applause, earning 86 more copper. Kids in the village
+pet the horses and follow them back to the field. 
+
+Lia, Pip and Jessy go into the tavern to spend their copper, drink mead and 
+play two truths, one lie. Jessy: I am blond (lie), I can play all 
+instruments (true - badly), I slept with Adran (true). Lia - I am a trained 
+hairdresser (true), I have some skill in mechanics (true), I partake in my 
+dad's dodgy business (lie). Pip - I do not have blue skin (lie), my family 
+are all tatoo artists (true), I have a brother who is kinda like a dog 
+(true). They notice that the town is mainly made up of humans though there 
+are 3 half-elves keeping to themselves at the back of the tavern. When they 
+ask the barman about this he reveals that there has been tensions between 
+the elves and people in the village. He says he can't stand elven kind and 
+preferred the music of the group's performance to the singing of
+the elves the previous night. Pip, Lia and Jessy start to feel very
+uncomfortable and take their mead to go. 
+
+Back at the cart, Jessy and Lia read. Jessy learns more about uncommon 
+undead, including Liths, and Lia learns about the monsters of the plains. 
+Pip starts drawing the party's adventures so far on the cart. She also 
+notices that a few scales on her armour have been moved. Jessy uses the 
+spell Detect Magic to try to see if there is someone there. The spell only 
+picks up the magical aura on Pip's cloak of Elvenkind and Jessy's necklace. 
+This is news to Jessy. Jessy sends Renfri a magical scroll to say they are 
+chilling at the cart and will wait for her to return.
 </div>
