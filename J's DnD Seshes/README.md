@@ -467,37 +467,43 @@ pimping their cart as their journey continues.
 
 ### Session 7
 <div style="text-align: justify">
-    The party prepares to set out for Klegas. All four head to Jinx & Trinkets
-    Magic Shop where they encounter Kribi who is aware of the mission set by Runara
-    and Soros. He gives Lia an everburning torch and Renfri a fireball scroll. He
-    agrees to look out for any protective armour and if he finds some he will
-    deliver it on to Klegas. Renfri and Jessy then head to the Raven's Tower
-    Library where they encounter Corrin, an elderly halfing and friend of Inara.
-    Hearing that they are en route to rescue Inara, he gives them a book of
-    necromancy and the undead. Jessy buys a book on monsters of the plains and
-    Renfri borrows a book about the Elven families in the Kingdom of Elgarest.
-    Renfri also borrows a book on Deep Speech in an attempt to learn it and
-    decipher the spellbook which Corrin reveals to be Vespera Shadowmire's
-    spellbook. Lia and Pip head to Tintagel Weapon Shop and ask Merlin for some
-    upgrades. He reinforces Lia's scimitar, gives Pip 30 lighting darts and banes
-    Pip's dagger against the undead. Renfri and Jessy arrive and have their daggers
-    baned against the undead too. Before leaving, Renfri finds Baku and sells him 5
-    tomes that she stole from Corrin's library. The party leave Mythrandir and set
-    off on the long journey to Klegas. During the journey, Renfri reads the Deep
-    Speech book and gains some insight into the language. Pip and Jessy read the
-    book of the undead and become very familiar with the creatures in it. They also
-    read a couple of pages on the monsters of the plains. The first night passes
-    with no issue. On the second night, the party discover that their things have
-    been rummaged through. Nothing has been taken, but items have been moved. On
-    the third day, the party are attacked by a group of goblins on wargs. The party
-    put up a good fight with Lia and Renfri managing to take some out, scaring off
-    the remaining rider and warg. Pip gets knocked unconscious but is revived by
-    Jessy. Pip then speaks to the remaining warg and encourages it to flee. The
-    party continue on and encounter no more monsters. On the fifth night, they hear
-    elves singing in the woods. They are mourning the 20 year anniversary of the
-    death of King Eladithas who has been succeeded by his son King Sylmenor. The
-    next day, the party follow Renfri to a secluded part of the forest edge where
-    they follow a river to the small village of Nowhere.
+The Cross Swords prepares to set out for Klegas. All four head to Jinx & 
+Trinkets Magic Shop where they encounter Kribi who is aware of the mission 
+set by Runara and Soros. He gives Lia an everburning torch and Renfri a 
+fireball scroll. He agrees to look out for any protective armour and if he 
+finds some he will deliver it on to Klegas. Renfri and Jessy then head to 
+the Raven's Tower Library where they encounter Corrin, an elderly halfing 
+and friend of Inara. Hearing that they are en route to rescue Inara, he 
+gives them a book of necromancy and the undead. Jessy buys a book on 
+monsters of the plains and Renfri borrows a book about the Elven families 
+in the Kingdom of Elgarest. Renfri also borrows a book on Deep Speech in an 
+attempt to learn it and decipher the spellbook which Corrin reveals to be 
+Vespera Shadowmire's spellbook. 
+
+Lia and Pip head to Tintagel Weapon Shop and ask Merlin for some upgrades. 
+He reinforces Lia's scimitar, gives Pip 30 lighting darts and banes
+Pip's dagger against the undead. Renfri and Jessy arrive and have their daggers
+baned against the undead too. Before leaving, Renfri finds Baku and sells him 5
+tomes that she stole from Corrin's library. 
+
+The party leave Mythrandir and set off on the long journey to Klegas. 
+During the journey, Renfri reads the Deep Speech book and gains some 
+insight into the language. Pip and Jessy read the book of the undead and 
+become very familiar with the creatures in it. They also read a couple of 
+pages on the monsters of the plains. The first night passes with no issue. 
+On the second night, the party discover that their things have
+been rummaged through. Nothing has been taken, but items have been moved. 
+
+On the third day, the party are attacked by a group of goblins on wargs. 
+The party put up a good fight with Lia and Renfri managing to take some out,
+scaring off the remaining rider and warg. Pip gets knocked unconscious but 
+is revived by Jessy. Pip then speaks to the remaining warg and encourages 
+it to flee. The party continue on and encounter no more monsters. On the 
+fifth night, they hear elves singing in the woods. They are mourning the 
+20-year anniversary of the death of King Eladithas who has been succeeded by 
+his son King Sylmenor. The next day, the party follow Renfri to a secluded 
+part of the forest edge where they follow a river to the small village of 
+Nowhere.
 </div>
 
 ### Session 7.5 - The Dancing Horse Mini-Chapter.
