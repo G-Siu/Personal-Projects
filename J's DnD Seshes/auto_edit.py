@@ -5,25 +5,18 @@
 
 # Names changed to specified colour for ease of reading
 
-# Open README.md file
-with open("README.md", "r") as f:
-    # lines = f.readlines()
-
+# Open README_edit.md and convert with specified changes
+with open("README_edit.md", "r") as infile, open("README.md", "w") as outfile:
+    # Names to be replaced for coloured version
     replacements = {"Jessy": '<span style="color:#46503C">Jessy</span>',
-                    "Pip": '<span style="color:#6C5078">Pip</span>'}
+                    "Pip": '<span style="color:#6C5078">Pip</span>',
+                    "Renfri": '<span style="color:#141524">Renfri</span>',
+                    "Lia": '<span style="color:#BAE8FF">Lia</span>'
+                    }
 
     # Convert player names to colour version
-    text = []
-    for line in f:
-        if (line.find("Jessy") is not False and
-                line.find('<span style="color:#46503C">Jessy</span>') == -1):
-            for src, target in replacements.items():
-                text.append(line.replace(src, target))
-# for line in text:
-#     if (line.find("Pip") is not False and
-#             line.find('<span style="color:#6C5078">Pip</span>') == -1):
-#         for src, target in replacements.items():
-#             text.append(line.replace(src, target))
+    for line in infile:
+        for src, target in replacements.items():
+            line = line.replace(src, target)
+        outfile.write(line)
 
-for line in text:
-    print(line)

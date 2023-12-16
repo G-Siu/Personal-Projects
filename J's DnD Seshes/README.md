@@ -3,10 +3,10 @@
 * [**J's DnD Seshes**](#js-dnd-seshes)
     * [<u>**Characters**</u>](#ucharactersu)
         * [Player Characters](#player-characters)
-            * [*Jessy (and parents)*](#jessy-and-parents)
-            * [*Pip*](#pip)
-            * [*Renfri*](#renfri)
-            * [*Lia*](#lia)
+            * [*<span style="color:#46503C">Jessy</span> (and parents)*](#jessy-and-parents)
+            * [*<span style="color:#6C5078">Pip</span>*](#pip)
+            * [*<span style="color:#141524">Renfri</span>*](#renfri)
+            * [*<span style="color:#BAE8FF">Lia</span>*](#lia)
         * [NPC](#npc)
             * [*Inara*](#inara)
             * [*Joshua*](#joshua)
@@ -36,22 +36,22 @@
 
 ### Player Characters
 
-#### *<span style="color:#46503C">Jessy</span>(and parents)*
+#### *<span style="color:#46503C">Jessy</span> (and parents)*
 
 <img src="Images/jessy_and_parents.png" alt="image" width="500" height="auto">
 <br /><br />
 
-#### *Pip*
+#### *<span style="color:#6C5078">Pip</span>*
 
 <img src="Images/pip.png" alt="image" width="500" height="auto">
 <br /><br />
 
-#### *Renfri*
+#### *<span style="color:#141524">Renfri</span>*
 
 <img src="Images/renfri.png" alt="image" width="500" height="auto">
 <br /><br />
 
-#### *Lia*
+#### *<span style="color:#BAE8FF">Lia</span>*
 
 <img src="Images/lia.png" alt="image" width="500" height="auto">
 <br /><br />
@@ -109,20 +109,20 @@ Take (a group that procures rare things for profit).
 Jessi, posing as a human bard, is looking for adventure and inspiration 
 in her songwriting.
 
-Together with Lia, a human fighter, Pip, a teifing rogue, and Renfri a 
+Together with <span style="color:#BAE8FF">Lia</span>, a human fighter, <span style="color:#6C5078">Pip</span>, a teifing rogue, and <span style="color:#141524">Renfri</span> a 
 half-elf rogue, they are tasked by Akra to retrieve basilisk fangs from 
 Storm Wreck Isle and collect information from a sorceress called Inara.  
 After embarking on a boat with Joshua, the party is attacked by
-Sahuagine. Lia manages to kill them, while Jessi sings encouragement at the 
+Sahuagine. <span style="color:#BAE8FF">Lia</span> manages to kill them, while Jessi sings encouragement at the 
 back.
 
 The party arrives at Storm Wreck Isle and travel to the 
 town of Dragons Rest. 2 groups of zombies were awaiting them in the woods. 
-Lia and Jessi engage the zombies, whilst Renfri and Pip wander 
+<span style="color:#BAE8FF">Lia</span> and Jessi engage the zombies, whilst <span style="color:#141524">Renfri</span> and <span style="color:#6C5078">Pip</span> wander 
 into the trees. The fight was short, Jessi managing to enchant one zombie to 
 flail around in the other direction drawing the others' attention. 
 However, as Jessi was concentrating on the spell, her disguise slipped, 
-revealing her half-elven lineage, where Lia was able to perceive but kept 
+revealing her half-elven lineage, where <span style="color:#BAE8FF">Lia</span> was able to perceive but kept 
 to herself.
 
 The party eventually make it to town, and are on edge. There they discover a 
@@ -140,9 +140,9 @@ little.
     
     In the land of Mythrandir, a grand adventure begins, a mission from the Slayers
     Take, one they're determined to win.
-    Lia the warrior, fierce as fire within.
-    Pip, the tricky tiefling rogue, quick and sly.
-    Renfri, the half-elf rogue, secrets in her eye.
+    <span style="color:#BAE8FF">Lia</span> the warrior, fierce as fire within.
+    <span style="color:#6C5078">Pip</span>, the tricky tiefling rogue, quick and sly.
+    <span style="color:#141524">Renfri</span>, the half-elf rogue, secrets in her eye.
     
     Joined by Jessi, the bard with a melody so sweet,
     Together they set sail to a land so neat.
@@ -181,7 +181,7 @@ little.
     
     With heads held high, their victory they claim,
     Forever remembered, immortalized in name.
-    Lia, Pip, Renfri, and Jessi, a fellowship true,
+    <span style="color:#BAE8FF">Lia</span>, <span style="color:#6C5078">Pip</span>, <span style="color:#141524">Renfri</span>, and Jessi, a fellowship true,
     The Cross Swords, a symbol of courage anew.
     
     Oh, they're the Cross Swords, a band so brave,
@@ -199,17 +199,17 @@ little.
 <div style="text-align: justify">
 The party set off from The Dragon's Rest towards the observatory to investigate
 the source of the undead and to find the missing sorcerer, Jensen. Whilst
-moving through the woods, Lia hears the sound of Zombies approaching. 
+moving through the woods, <span style="color:#BAE8FF">Lia</span> hears the sound of Zombies approaching. 
 Three Zombies attack the party who choose to stay and fight, managing 
 to defeat them. A hoard then arrives on the horizon but the party is 
 saved by Runara, the Bronze Dragon who resides on Stormwreck Isle. 
 Runara thanks the party for attempting to restore the natural order and 
 protects them on their way to the observatory.
 
-Once there, the party are set upon by several skeletons. Pip and Renfri take
+Once there, the party are set upon by several skeletons. <span style="color:#6C5078">Pip</span> and <span style="color:#141524">Renfri</span> take
 these out by using their rogue stealth and acrobatics. The party then make
 their way up the observatory tower and come across Jensen's quarters where they
-find a broken mirror with Elvish inscriptions that Renfri is able to decipher.
+find a broken mirror with Elvish inscriptions that <span style="color:#141524">Renfri</span> is able to decipher.
 
 On the top floor of the observatory, the party encounter three skeletons, a now
 dead and shackled Zombie Jensen, and a mysterious hooded figure in black robes
@@ -217,11 +217,11 @@ chanting a spell in Elvish, Infernal and (what Inara later identifies as) Deep
 Speech. The figure hears the party and vanishes, leaving behind a pulsating,
 glowing purple orb. 
 
-The party make quick work of the skeletons and Pip and Lia
-investigate the orb. Jessy, having missed all her previous attacks against the
-skeletons, fires the killing blow to take out Jensen. Both Lia and Jessy work
+The party make quick work of the skeletons and <span style="color:#6C5078">Pip</span> and <span style="color:#BAE8FF">Lia</span>
+investigate the orb. <span style="color:#46503C">Jessy</span>, having missed all her previous attacks against the
+skeletons, fires the killing blow to take out Jensen. Both <span style="color:#BAE8FF">Lia</span> and <span style="color:#46503C">Jessy</span> work
 together to destroy the orb and the spell over the Isle is broken. The party
-retires to Jensen's old quarters in the observatory tower and Renfri discovers
+retires to Jensen's old quarters in the observatory tower and <span style="color:#141524">Renfri</span> discovers
 his diary in a hidden drawer.
 </div>
 
@@ -286,17 +286,17 @@ of the council of Mythrandir has been visiting the island.
 In the morning, they ask Inara about the potions which she identifies to 
 be the Good Hope, Haste and Sanctuary potions. When asked about the 
 council member, she says she has an idea but doesn't reveal anything until 
-Renfri presses her for more information later on. She then reveals to 
-Renfri that she is suspicious of Vespera Shadowmire, her old mentor, who 
+<span style="color:#141524">Renfri</span> presses her for more information later on. She then reveals to 
+<span style="color:#141524">Renfri</span> that she is suspicious of Vespera Shadowmire, her old mentor, who 
 she knows has been leaving on various research missions. She vows to 
 confront her on her return to Mythrandir. 
 
 The party enter the caves under the observatory and battle two 
 basilisks, working together using the shards of Jensen's mirror to defeat 
-them with ease. Pip and Renfri deal the final blows. 
-On exiting the caves, Jessy's true identity is revealed: she is in fact a 
-half-elf, not a human and is 92 years old. Whilst Pip and Lia are 
-forgiving of Jessy, Renfri keeps her distance. The
+them with ease. <span style="color:#6C5078">Pip</span> and <span style="color:#141524">Renfri</span> deal the final blows. 
+On exiting the caves, <span style="color:#46503C">Jessy</span>'s true identity is revealed: she is in fact a 
+half-elf, not a human and is 92 years old. Whilst <span style="color:#6C5078">Pip</span> and <span style="color:#BAE8FF">Lia</span> are 
+forgiving of <span style="color:#46503C">Jessy</span>, <span style="color:#141524">Renfri</span> keeps her distance. The
 party returns to the celebrating town of Dragon's Rest and are given free
 drinks by the bartender, Greg, who asks them what they call themselves. At the
 moment: The Cross Swords.
@@ -315,25 +315,25 @@ store and meet an elderly gnome called Lilli Nim who repairs their tattered
 clothes and designs their outfits with the Cross Swords symbol. The party then
 split up to explore further. 
 
-Renfri, with the goal to steal from the rich, tries to enter the Inner 
+<span style="color:#141524">Renfri</span>, with the goal to steal from the rich, tries to enter the Inner 
 Sanctum through the main gate, but it is guarded. Instead, she enters the 
 Temple of Bahamut, though decides that this is not the place
-to steal and joins Lia in the Magic Shop, Jinx and Trinkets. 
+to steal and joins <span style="color:#BAE8FF">Lia</span> in the Magic Shop, Jinx and Trinkets. 
 
-Lia, with the goal to improve her magic abilities, meets Kribi Mirlon, the 
+<span style="color:#BAE8FF">Lia</span>, with the goal to improve her magic abilities, meets Kribi Mirlon, the 
 Magic Shop owner, who creates a perception potion for her. Both go to join 
-Pip and Jessy at the weapons shop: Tintagel Weapon Shop. Pip and Jessy meet 
+<span style="color:#6C5078">Pip</span> and <span style="color:#46503C">Jessy</span> at the weapons shop: Tintagel Weapon Shop. <span style="color:#6C5078">Pip</span> and <span style="color:#46503C">Jessy</span> meet 
 Merlin and his apprentice Arthur and receive new weapons and upgrades to 
-their armour. Renfri also receives an upgrade when she arrives. The party 
-then go to The Green Dragon pub where Jessy performs for the crowd. Pip 
+their armour. <span style="color:#141524">Renfri</span> also receives an upgrade when she arrives. The party 
+then go to The Green Dragon pub where <span style="color:#46503C">Jessy</span> performs for the crowd. <span style="color:#6C5078">Pip</span> 
 notices the symbol of The Swallow Thieves Guild and enters the secret 
 underground lair where she encounters an old friend of her father, the 
 leader of The Swallows, a half-orc named Baku. Armed with new illicit 
-trinkets, she returns to the group and a very suspicious Renfri. T
+trinkets, she returns to the group and a very suspicious <span style="color:#141524">Renfri</span>. T
 
 The party rest for the night and return to The Slayer's Take where there is 
 a notice from the local farmer asking for help to kill an Ankheg in 
-exchange for 10 Gold and a horse and cart. Akra approaches Jessy and
+exchange for 10 Gold and a horse and cart. Akra approaches <span style="color:#46503C">Jessy</span> and
 reveals that a high level political client has offered a large amount of money
 for the theft of the silver dragon egg in the study of Soros Davino, the leader
 of the Myrandir Council.
@@ -345,107 +345,107 @@ The Cross Swords organised their outfits with Lilli Nim and returned to The
 Slayer's Take where Akra asked them for a rundown of their plan to enter 
 the mansion. Inara called via the earring and said she was going to 
 confront Vespera Shadowmire at the party and that she had a +1 ticket. 
-Renfri took the ticket and organised to attend with Inara. Pip and Lia 
+<span style="color:#141524">Renfri</span> took the ticket and organised to attend with Inara. <span style="color:#6C5078">Pip</span> and <span style="color:#BAE8FF">Lia</span> 
 decided to take the 2 tickets provided by Akra's client and pretend to be 
-nobles from Klegas. Jessy met with her rival, Adran Amastacia, the lead 
+nobles from Klegas. <span style="color:#46503C">Jessy</span> met with her rival, Adran Amastacia, the lead 
 singer of The Fleetwood Trio, and bargained her way into joining the band 
 who had been booked as entertainment.
 
-On arriving at the mansion, Pip and Lia bumped into Kribi who revealed he was a
-member of the council and the three of them had many drinks. Renfri was
+On arriving at the mansion, <span style="color:#6C5078">Pip</span> and <span style="color:#BAE8FF">Lia</span> bumped into Kribi who revealed he was a
+member of the council and the three of them had many drinks. <span style="color:#141524">Renfri</span> was
 introduced to Soros Davino (the leader of the council) and Lyslyl Strongsong (a
 paladin from the Temple of Bahamut and member of the council). Everyone was
 gathered in the dining room where Soros gave a speech about the nations coming
 together in peace. During the meal, the party met Vespera Shadowmire who was
-wearing a necklace that Renfri recognised immediately. She remarked to Jessy "
-Is that the name you are going by nowadays?" She then told Pip and Lia that she
+wearing a necklace that <span style="color:#141524">Renfri</span> recognised immediately. She remarked to <span style="color:#46503C">Jessy</span> "
+Is that the name you are going by nowadays?" She then told <span style="color:#6C5078">Pip</span> and <span style="color:#BAE8FF">Lia</span> that she
 has some upcoming business near Klegas but was unsure if she would make The
 Festival of the Hunt. 
 
 After dinner she excused herself and left quickly, followed swiftly by 
-Inara. Whilst the party scouted the mansion, Renfri hears  the word "Ren-" 
+Inara. Whilst the party scouted the mansion, <span style="color:#141524">Renfri</span> hears  the word "Ren-" 
 before silence. She rushed to the main door and asked the guards what had 
 happened. They were unresponsive and clearly under a spell.
-Renfri called for Jessy who was able to break the spell and the guards revealed
+<span style="color:#141524">Renfri</span> called for <span style="color:#46503C">Jessy</span> who was able to break the spell and the guards revealed
 that Vespera and Inara had argued before Vespera had grabbed Inara saying "I
 need another sorcerer now anyway" and both had disappeared. 
 
-Whilst Jessy went to break the news of Inara's kidnap to the council, Pip 
+Whilst <span style="color:#46503C">Jessy</span> went to break the news of Inara's kidnap to the council, <span style="color:#6C5078">Pip</span> 
 managed to scale the building and land on the upper balconies revealing two 
 small bedrooms and a master bedroom. The doors were sealed with magic and 
-she couldn't get in. Lia overheard Soros saying that the room was secure as 
+she couldn't get in. <span style="color:#BAE8FF">Lia</span> overheard Soros saying that the room was secure as 
 the guards had the keys and swiped a set of keys from an unsuspecting guard 
-which she handed to Renfri. On the second floor, Lia and Renfri managed to 
+which she handed to <span style="color:#141524">Renfri</span>. On the second floor, <span style="color:#BAE8FF">Lia</span> and <span style="color:#141524">Renfri</span> managed to 
 trick a guard into following them into Inara's guest room where they locked 
-him in. Lia then distracted the final guard by trying to flirt with him 
-whilst Renfri snuck up onto the top floor. There she encountered a sleeping 
+him in. <span style="color:#BAE8FF">Lia</span> then distracted the final guard by trying to flirt with him 
+whilst <span style="color:#141524">Renfri</span> snuck up onto the top floor. There she encountered a sleeping 
 Hellhound and struggled to put the keys in the lock. This woke the 
-hellhound. Renfri managed to get through the door and over to the balcony 
-to open the window for Pip as the Hellhound attacked. She sent a signal to 
-the team for help. Hearing this Jessy joined Lia on the second floor and 
-charmed the final guard who let them past. Pip was able to talk to the
-Hellhound using Infernal and was able to encourage it out onto the balcony. Lia
+hellhound. <span style="color:#141524">Renfri</span> managed to get through the door and over to the balcony 
+to open the window for <span style="color:#6C5078">Pip</span> as the Hellhound attacked. She sent a signal to 
+the team for help. Hearing this <span style="color:#46503C">Jessy</span> joined <span style="color:#BAE8FF">Lia</span> on the second floor and 
+charmed the final guard who let them past. <span style="color:#6C5078">Pip</span> was able to talk to the
+Hellhound using Infernal and was able to encourage it out onto the balcony. <span style="color:#BAE8FF">Lia</span>
 picked up a lamp from outside the room and the party was able to use this to
 solve the mirror riddle. 
 
-Once inside the study they came across a Gargoyle who asked a riddle. Lia 
+Once inside the study they came across a Gargoyle who asked a riddle. <span style="color:#BAE8FF">Lia</span> 
 was able to remember the speech Soros had given at dinner and gave the 
 answer: Footsteps. The Gargoyle released the Silver Dragon Egg and
-Pip and Lia managed to carry it outside. Renfri and Pip made graceful landings
-when jumping off the balcony, Lia did not. The egg made it safely. Jessy
-returned to the band. Pip retrieved Inara's carriage and took Lia and Renfri
+<span style="color:#6C5078">Pip</span> and <span style="color:#BAE8FF">Lia</span> managed to carry it outside. <span style="color:#141524">Renfri</span> and <span style="color:#6C5078">Pip</span> made graceful landings
+when jumping off the balcony, <span style="color:#BAE8FF">Lia</span> did not. The egg made it safely. <span style="color:#46503C">Jessy</span>
+returned to the band. <span style="color:#6C5078">Pip</span> retrieved Inara's carriage and took <span style="color:#BAE8FF">Lia</span> and <span style="color:#141524">Renfri</span>
 back to The Slayer's Take where Akra stored the egg in a secret room under the
 floorboards. The Fleetwood Trio then burst into The Slayer's Take to reveal
-that Jessy's charm had worn off the guard and that she had been arrested.
+that <span style="color:#46503C">Jessy</span>'s charm had worn off the guard and that she had been arrested.
 </div>
 
 ### Session 6
 <div style="text-align: justify">
-On finding out Jessy had been arrested, Akra told the party to get rid of
+On finding out <span style="color:#46503C">Jessy</span> had been arrested, Akra told the party to get rid of
 Inara's carriage and find somewhere to hide till the exchange for the dragon
-egg had been made. Pip got rid of the carriage outside the city and was able to
-sneak back in to meet Renfri and Lia at the local tavern. Pip took the pair
-into the Swallow's Den where they met Pip's uncle Baku who let them rest the
-night and sent his Swallows out to find out where Jessy was being kept. He also
-gave Pip a cloak of Elvenkind as a gift. Baku recognised Lia's last name, 
+egg had been made. <span style="color:#6C5078">Pip</span> got rid of the carriage outside the city and was able to
+sneak back in to meet <span style="color:#141524">Renfri</span> and <span style="color:#BAE8FF">Lia</span> at the local tavern. <span style="color:#6C5078">Pip</span> took the pair
+into the Swallow's Den where they met <span style="color:#6C5078">Pip</span>'s uncle Baku who let them rest the
+night and sent his Swallows out to find out where <span style="color:#46503C">Jessy</span> was being kept. He also
+gave <span style="color:#6C5078">Pip</span> a cloak of Elvenkind as a gift. Baku recognised <span style="color:#BAE8FF">Lia</span>'s last name, 
 Strongbrooke, and revealed that he knows her father well and is currently 
 doing business with her brother. The party make a plan and one of Baku's 
 Swallows, a gnome named Baldur, dimension doored them into a cupboard in 
 the council.
 
-During this time, Jessy was making music in her cell with a halfling named
+During this time, <span style="color:#46503C">Jessy</span> was making music in her cell with a halfling named
 Bolger who was in for not paying his taxes. She sent a message to the party
 saying that she had been arrested and gave a rough location of the cell she was
-in. Lia attempted to draw the guards away from the servant quarter doors by
-causing a distraction, but it didn't work. Pip put on a janitor's outfit and
+in. <span style="color:#BAE8FF">Lia</span> attempted to draw the guards away from the servant quarter doors by
+causing a distraction, but it didn't work. <span style="color:#6C5078">Pip</span> put on a janitor's outfit and
 convinced the guard that she was finishing up the back shift. The guard
-followed Pip into the servant quarters whilst Lia stayed hidden in the main
-hall and Renfri kept watch from the cupboard. Inside the servant quarters, Pip
+followed <span style="color:#6C5078">Pip</span> into the servant quarters whilst <span style="color:#BAE8FF">Lia</span> stayed hidden in the main
+hall and <span style="color:#141524">Renfri</span> kept watch from the cupboard. Inside the servant quarters, <span style="color:#6C5078">Pip</span>
 watched two guards exit the staircase guarded by a gargoyle and saw two other
-guards replace them using the password "sandstone". Pip then knocked out the
+guards replace them using the password "sandstone". <span style="color:#6C5078">Pip</span> then knocked out the
 guard watching her and used the password to sneak downstairs. 
 
-At this point Lia snuck into the room and was able to send a message to Pip 
-to get the password. Lia and Pip made their way through the underground 
+At this point <span style="color:#BAE8FF">Lia</span> snuck into the room and was able to send a message to <span style="color:#6C5078">Pip</span> 
+to get the password. <span style="color:#BAE8FF">Lia</span> and <span style="color:#6C5078">Pip</span> made their way through the underground 
 jail and passed a cell which had a gnome inside called Nom who asked to be 
-released. Pip agreed to release him if he would help save Jessy. Nom agreed.
-Jessy's cell was guarded by the two guards from the changeover and a 
-hellhound. Pip pushed Nom forward who struck the hellhound with blue 
-lighting magic and it chased him back towards the exit. Pip and Lia 
-attacked the guards with the aid of Jessy who managed to steal keys off the 
-distracted guards. Once free, Jessy offered freedom to Bolger who refused.
+released. <span style="color:#6C5078">Pip</span> agreed to release him if he would help save <span style="color:#46503C">Jessy</span>. Nom agreed.
+<span style="color:#46503C">Jessy</span>'s cell was guarded by the two guards from the changeover and a 
+hellhound. <span style="color:#6C5078">Pip</span> pushed Nom forward who struck the hellhound with blue 
+lighting magic and it chased him back towards the exit. <span style="color:#6C5078">Pip</span> and <span style="color:#BAE8FF">Lia</span> 
+attacked the guards with the aid of <span style="color:#46503C">Jessy</span> who managed to steal keys off the 
+distracted guards. Once free, <span style="color:#46503C">Jessy</span> offered freedom to Bolger who refused.
 
-Reunited, Jessy, Lia and Pip made their way back to the exit and came 
+Reunited, <span style="color:#46503C">Jessy</span>, <span style="color:#BAE8FF">Lia</span> and <span style="color:#6C5078">Pip</span> made their way back to the exit and came 
 across Nom who was laughing hysterically and ripping apart the hellhound 
 with his hands. They all retreated back up to the servant's quarters. 
-Meanwhile, from her vantage point Renfri watched as Soros entered the council
+Meanwhile, from her vantage point <span style="color:#141524">Renfri</span> watched as Soros entered the council
 main hall with an older woman dressed in green robes laced with bronze. She had
 a tiara-like headpiece embedded with emeralds and made of bronze with two
-pieces that went up like horns. She turned to the cupboard asked Renfri to come
-out. Renfri informs Baku through the dimension door that they may be
+pieces that went up like horns. She turned to the cupboard asked <span style="color:#141524">Renfri</span> to come
+out. <span style="color:#141524">Renfri</span> informs Baku through the dimension door that they may be
 compromised, and he closes the portal. 
 
-Renfri exits and discovers the woman is Runara, the bronze dragon from 
+<span style="color:#141524">Renfri</span> exits and discovers the woman is Runara, the bronze dragon from 
 Stormwreck Isle, in human form. Nom peaks out the door of the servant 
 quarters, sees Soros and Runara and disappears immediately. Runara calls 
 the party out and they all reunite. She brings news that a hoard of undead 
@@ -469,81 +469,81 @@ pimping their cart as their journey continues.
 <div style="text-align: justify">
 The Cross Swords prepares to set out for Klegas. All four head to Jinx & 
 Trinkets Magic Shop where they encounter Kribi who is aware of the mission 
-set by Runara and Soros. He gives Lia an everburning torch and Renfri a 
+set by Runara and Soros. He gives <span style="color:#BAE8FF">Lia</span> an everburning torch and <span style="color:#141524">Renfri</span> a 
 fireball scroll. He agrees to look out for any protective armour and if he 
-finds some he will deliver it on to Klegas. Renfri and Jessy then head to 
+finds some he will deliver it on to Klegas. <span style="color:#141524">Renfri</span> and <span style="color:#46503C">Jessy</span> then head to 
 the Raven's Tower Library where they encounter Corrin, an elderly halfing 
 and friend of Inara. Hearing that they are en route to rescue Inara, he 
-gives them a book of necromancy and the undead. Jessy buys a book on 
-monsters of the plains and Renfri borrows a book about the Elven families 
-in the Kingdom of Elgarest. Renfri also borrows a book on Deep Speech in an 
+gives them a book of necromancy and the undead. <span style="color:#46503C">Jessy</span> buys a book on 
+monsters of the plains and <span style="color:#141524">Renfri</span> borrows a book about the Elven families 
+in the Kingdom of Elgarest. <span style="color:#141524">Renfri</span> also borrows a book on Deep Speech in an 
 attempt to learn it and decipher the spellbook which Corrin reveals to be 
 Vespera Shadowmire's spellbook. 
 
-Lia and Pip head to Tintagel Weapon Shop and ask Merlin for some upgrades. 
-He reinforces Lia's scimitar, gives Pip 30 lighting darts and banes
-Pip's dagger against the undead. Renfri and Jessy arrive and have their daggers
-baned against the undead too. Before leaving, Renfri finds Baku and sells him 5
+<span style="color:#BAE8FF">Lia</span> and <span style="color:#6C5078">Pip</span> head to Tintagel Weapon Shop and ask Merlin for some upgrades. 
+He reinforces <span style="color:#BAE8FF">Lia</span>'s scimitar, gives <span style="color:#6C5078">Pip</span> 30 lighting darts and banes
+<span style="color:#6C5078">Pip</span>'s dagger against the undead. <span style="color:#141524">Renfri</span> and <span style="color:#46503C">Jessy</span> arrive and have their daggers
+baned against the undead too. Before leaving, <span style="color:#141524">Renfri</span> finds Baku and sells him 5
 tomes that she stole from Corrin's library. 
 
 The party leave Mythrandir and set off on the long journey to Klegas. 
-During the journey, Renfri reads the Deep Speech book and gains some 
-insight into the language. Pip and Jessy read the book of the undead and 
+During the journey, <span style="color:#141524">Renfri</span> reads the Deep Speech book and gains some 
+insight into the language. <span style="color:#6C5078">Pip</span> and <span style="color:#46503C">Jessy</span> read the book of the undead and 
 become very familiar with the creatures in it. They also read a couple of 
 pages on the monsters of the plains. The first night passes with no issue. 
 On the second night, the party discover that their things have
 been rummaged through. Nothing has been taken, but items have been moved. 
 
 On the third day, the party are attacked by a group of goblins on wargs. 
-The party put up a good fight with Lia and Renfri managing to take some out,
-scaring off the remaining rider and warg. Pip gets knocked unconscious but 
-is revived by Jessy. Pip then speaks to the remaining warg and encourages 
+The party put up a good fight with <span style="color:#BAE8FF">Lia</span> and <span style="color:#141524">Renfri</span> managing to take some out,
+scaring off the remaining rider and warg. <span style="color:#6C5078">Pip</span> gets knocked unconscious but 
+is revived by <span style="color:#46503C">Jessy</span>. <span style="color:#6C5078">Pip</span> then speaks to the remaining warg and encourages 
 it to flee. The party continue on and encounter no more monsters. On the 
 fifth night, they hear elves singing in the woods. They are mourning the 
 20-year anniversary of the death of King Eladithas who has been succeeded by 
-his son King Sylmenor. The next day, the party follow Renfri to a secluded 
+his son King Sylmenor. The next day, the party follow <span style="color:#141524">Renfri</span> to a secluded 
 part of the forest edge where they follow a river to the small village of 
 Nowhere.
 </div>
 
 ### Session 7.5 - The Dancing Horse Mini-Chapter.
 <div style="text-align: justify">
-The Crossed Swords arrived in Nowhere. Renfri excused herself saying that 
+The Crossed Swords arrived in Nowhere. <span style="color:#141524">Renfri</span> excused herself saying that 
 there was someone she needed to check in on and that the party should 
-explore the village for a bit. Pip went into the market and brought apples 
+explore the village for a bit. <span style="color:#6C5078">Pip</span> went into the market and brought apples 
 back for the horses. She tried learning how to juggle and taught Beauty and 
 Blitz to approach her on command and taught Beauty how to ride in a circle 
-with her standing on her back. Along with Jessy, they devised a spectacular 
+with her standing on her back. Along with <span style="color:#46503C">Jessy</span>, they devised a spectacular 
 performance for the village.
 
-Lia took Blitz into the market to have a look around. Suddenly everyone's
-attention is drawn to the bridge where Pip and Jessy ride up the market street.
-Jessy falls into the fountain in the village square whilst Pip rides beauty
-around it. They dazzle the crowd earning 123 copper coins which Lia collects.
-Lia and Blitz start hyping up the crowd and Pip and Jessy perform another
+<span style="color:#BAE8FF">Lia</span> took Blitz into the market to have a look around. Suddenly everyone's
+attention is drawn to the bridge where <span style="color:#6C5078">Pip</span> and <span style="color:#46503C">Jessy</span> ride up the market street.
+<span style="color:#46503C">Jessy</span> falls into the fountain in the village square whilst <span style="color:#6C5078">Pip</span> rides beauty
+around it. They dazzle the crowd earning 123 copper coins which <span style="color:#BAE8FF">Lia</span> collects.
+<span style="color:#BAE8FF">Lia</span> and Blitz start hyping up the crowd and <span style="color:#6C5078">Pip</span> and <span style="color:#46503C">Jessy</span> perform another
 routine to more rapturous applause, earning 86 more copper. Kids in the village
 pet the horses and follow them back to the field. 
 
-Lia, Pip and Jessy go into the tavern to spend their copper, drink mead and 
-play two truths, one lie. Jessy: I am blond (lie), I can play all 
-instruments (true - badly), I slept with Adran (true). Lia - I am a trained 
+<span style="color:#BAE8FF">Lia</span>, <span style="color:#6C5078">Pip</span> and <span style="color:#46503C">Jessy</span> go into the tavern to spend their copper, drink mead and 
+play two truths, one lie. <span style="color:#46503C">Jessy</span>: I am blond (lie), I can play all 
+instruments (true - badly), I slept with Adran (true). <span style="color:#BAE8FF">Lia</span> - I am a trained 
 hairdresser (true), I have some skill in mechanics (true), I partake in my 
-dad's dodgy business (lie). Pip - I do not have blue skin (lie), my family 
+dad's dodgy business (lie). <span style="color:#6C5078">Pip</span> - I do not have blue skin (lie), my family 
 are all tatoo artists (true), I have a brother who is kinda like a dog 
 (true). They notice that the town is mainly made up of humans though there 
 are 3 half-elves keeping to themselves at the back of the tavern. When they 
 ask the barman about this he reveals that there has been tensions between 
 the elves and people in the village. He says he can't stand elven kind and 
 preferred the music of the group's performance to the singing of
-the elves the previous night. Pip, Lia and Jessy start to feel very
+the elves the previous night. <span style="color:#6C5078">Pip</span>, <span style="color:#BAE8FF">Lia</span> and <span style="color:#46503C">Jessy</span> start to feel very
 uncomfortable and take their mead to go. 
 
-Back at the cart, Jessy and Lia read. Jessy learns more about uncommon 
-undead, including Liths, and Lia learns about the monsters of the plains. 
-Pip starts drawing the party's adventures so far on the cart. She also 
-notices that a few scales on her armour have been moved. Jessy uses the 
+Back at the cart, <span style="color:#46503C">Jessy</span> and <span style="color:#BAE8FF">Lia</span> read. <span style="color:#46503C">Jessy</span> learns more about uncommon 
+undead, including Liths, and <span style="color:#BAE8FF">Lia</span> learns about the monsters of the plains. 
+<span style="color:#6C5078">Pip</span> starts drawing the party's adventures so far on the cart. She also 
+notices that a few scales on her armour have been moved. <span style="color:#46503C">Jessy</span> uses the 
 spell Detect Magic to try to see if there is someone there. The spell only 
-picks up the magical aura on Pip's cloak of Elvenkind and Jessy's necklace. 
-This is news to Jessy. Jessy sends Renfri a magical scroll to say they are 
+picks up the magical aura on <span style="color:#6C5078">Pip</span>'s cloak of Elvenkind and <span style="color:#46503C">Jessy</span>'s necklace. 
+This is news to <span style="color:#46503C">Jessy</span>. <span style="color:#46503C">Jessy</span> sends <span style="color:#141524">Renfri</span> a magical scroll to say they are 
 chilling at the cart and will wait for her to return.
 </div>
