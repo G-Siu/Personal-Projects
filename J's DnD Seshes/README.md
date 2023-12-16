@@ -36,7 +36,7 @@
 
 ### Player Characters
 
-#### *Jessy (and parents)*
+#### *<span style="color:#46503C">Jessy</span>(and parents)*
 
 <img src="Images/jessy_and_parents.png" alt="image" width="500" height="auto">
 <br /><br />
