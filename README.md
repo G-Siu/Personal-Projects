@@ -52,4 +52,15 @@ printing. Made to be somewhat user friendly.
 Detect RGB colour palette at mouse pointer (rather inelegantly). Found on 
 Stack Overflow, modified with a delay, so it doesn't continuously print. 
 Requires the 'pyautogui' package.
+-------------------------------------------------------------------------------
+### *J's DnD Sessions*
+A reason to practice writing in markdown in context of summarising a 
+friend's DnD sessions. This includes summaries of each session, AI 
+generated pictures of characters, etc. All content belongs to said friend 
+and DnD group.<br />
+Within this project, I wrote a Python script to automatically convert the 
+party's names in the markdown document with colour for ease of reading. I 
+learned that markdown syntax does not support colour, which led to the use 
+of HTML markup instead.
+-------------------------------------------------------------------------------
 </div>
