@@ -547,3 +547,62 @@ picks up the magical aura on <span style="color:#6C5078">Pip</span>'s cloak of E
 This is news to <span style="color:#46503C">Jessy</span>. <span style="color:#46503C">Jessy</span> sends <span style="color:#141524">Renfri</span> a magical scroll to say they are 
 chilling at the cart and will wait for her to return.
 </div>
+
+### Session 8
+
+<div style="text-align: justify">
+Whilst <span style="color:#6C5078">Pip</span>, <span style="color:#46503C">Jessy</span> and <span style="color:#BAE8FF">Lia</span> cause chaos in Nowhere, <span style="color:#141524">Renfri</span> reunites with Old Man
+Lutz who is overjoyed to see her. He gives her food and asks about her travels
+and her new friends. After a small catch up and a cup of tea, <span style="color:#141524">Renfri</span> rejoins
+the team who ask about the village and the animosity they felt from several
+villagers. 
+
+<span style="color:#141524">Renfri</span> responds that the village is a bit of a shithole. She then
+brings Lutz down to join the party, and they all have dinner. Lutz tells them
+about the village's past where elves from the Kingdom of Elgarest took over the
+village during the war. Many people lost their lives and families were torn
+apart. Once the war was over, the elves abandoned the village and went back
+into the forest but did not leave any protections for the village. This has
+caused tensions for the next generations who still hold on to this hate for the
+elves. Old Man Lutz hopes one day to see peace restored between the elves and
+the villagers. 
+
+After dinner, <span style="color:#141524">Renfri</span> takes Old Man Lutz back home. He gives her
+a poster which had been handed to him by some elves the week before. She puts
+it into her pocket. He then tells her that someone is following her group. He
+does not know the intentions of the being, only that they are being followed.
+After he says this, he begins to shake, his eyes roll back and turn a bright
+blue. He speaks in an ethereal voice: "Crown. Fire. Family. Death. Keep them
+close." <span style="color:#141524">Renfri</span> rejoins the party, tells then what Old Man Lutz said in his
+trance, and they set off for Kleopas. 
+
+The party continue to read their books. <span style="color:#BAE8FF">Lia</span> begins to teach the party some 
+fighter skills. During the journey, the party throw stones in an attempt to 
+reveal who is following them. They hit someone who shouts and throws a 
+stone back. <span style="color:#46503C">Jessy</span> and <span style="color:#141524">Renfri</span> give chase but the invisible creature 
+disappears. <span style="color:#46503C">Jessy</span> recognises the magic trace as Nom, the gnome that <span style="color:#6C5078">Pip</span> 
+released from the Mythrandir prison. 
+
+When the party arrive in Klegas, there is bunting and food stalls 
+everywhere in preparation for The Festival of  the Hunt. <span style="color:#BAE8FF">Lia</span> had been last 
+year's winner and had won a substantial amount of money. They go to <span style="color:#BAE8FF">Lia</span>'s 
+mum, Maria's, hairdressers and are given food and tea. Maria is delighted to 
+see her daughter though surprised she is back in Klegas so soon. After 
+catching up for a bit Maria encourages the party to sign up for the 
+festival. <span style="color:#BAE8FF">Lia</span>'s dad Martin is out on business securing prizes but
+will hopefully be back in time for dinner. <span style="color:#BAE8FF">Lia</span>'s brother Mark is apparently
+doing business with a man named Baku in Mythrandir. She invites the entire
+party to join the family for dinner that evening and encourages them to explore
+the town. <span style="color:#6C5078">Pip</span> goes to the Tiefling District and explores a glassblowers shop,
+aiding <span style="color:#141524">Renfri</span> in stealing a couple of items. 
+
+<span style="color:#46503C">Jessy</span> and <span style="color:#BAE8FF">Lia</span> go to the local magic shop. The owner reveals that <span style="color:#46503C">Jessy</span>'s 
+necklace is an heirloom of the Elven Kingdom of Elgarest. The owner also 
+gives <span style="color:#BAE8FF">Lia</span> some free items. When they ask about Nom and explain he is 
+following them, the magic owner rushes them out if the shop saying that Nom 
+is a powerful, fearsome being that he does not want to cross. <span style="color:#141524">Renfri</span> then 
+goes to an old couple's house who nurture and sell animals. She meets a 
+black Raven who is keen to go on an adventure and spread his wings.
+He settles on <span style="color:#141524">Renfri</span>'s shoulder. <span style="color:#141524">Renfri</span> hears the sound of animalistic
+laughing...
+</div>

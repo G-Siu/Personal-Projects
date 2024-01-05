@@ -547,3 +547,62 @@ picks up the magical aura on Pip's cloak of Elvenkind and Jessy's necklace.
 This is news to Jessy. Jessy sends Renfri a magical scroll to say they are 
 chilling at the cart and will wait for her to return.
 </div>
+
+### Session 8
+
+<div style="text-align: justify">
+Whilst Pip, Jessy and Lia cause chaos in Nowhere, Renfri reunites with Old Man
+Lutz who is overjoyed to see her. He gives her food and asks about her travels
+and her new friends. After a small catch up and a cup of tea, Renfri rejoins
+the team who ask about the village and the animosity they felt from several
+villagers. 
+
+Renfri responds that the village is a bit of a shithole. She then
+brings Lutz down to join the party, and they all have dinner. Lutz tells them
+about the village's past where elves from the Kingdom of Elgarest took over the
+village during the war. Many people lost their lives and families were torn
+apart. Once the war was over, the elves abandoned the village and went back
+into the forest but did not leave any protections for the village. This has
+caused tensions for the next generations who still hold on to this hate for the
+elves. Old Man Lutz hopes one day to see peace restored between the elves and
+the villagers. 
+
+After dinner, Renfri takes Old Man Lutz back home. He gives her
+a poster which had been handed to him by some elves the week before. She puts
+it into her pocket. He then tells her that someone is following her group. He
+does not know the intentions of the being, only that they are being followed.
+After he says this, he begins to shake, his eyes roll back and turn a bright
+blue. He speaks in an ethereal voice: "Crown. Fire. Family. Death. Keep them
+close." Renfri rejoins the party, tells then what Old Man Lutz said in his
+trance, and they set off for Kleopas. 
+
+The party continue to read their books. Lia begins to teach the party some 
+fighter skills. During the journey, the party throw stones in an attempt to 
+reveal who is following them. They hit someone who shouts and throws a 
+stone back. Jessy and Renfri give chase but the invisible creature 
+disappears. Jessy recognises the magic trace as Nom, the gnome that Pip 
+released from the Mythrandir prison. 
+
+When the party arrive in Klegas, there is bunting and food stalls 
+everywhere in preparation for The Festival of  the Hunt. Lia had been last 
+year's winner and had won a substantial amount of money. They go to Lia's 
+mum, Maria's, hairdressers and are given food and tea. Maria is delighted to 
+see her daughter though surprised she is back in Klegas so soon. After 
+catching up for a bit Maria encourages the party to sign up for the 
+festival. Lia's dad Martin is out on business securing prizes but
+will hopefully be back in time for dinner. Lia's brother Mark is apparently
+doing business with a man named Baku in Mythrandir. She invites the entire
+party to join the family for dinner that evening and encourages them to explore
+the town. Pip goes to the Tiefling District and explores a glassblowers shop,
+aiding Renfri in stealing a couple of items. 
+
+Jessy and Lia go to the local magic shop. The owner reveals that Jessy's 
+necklace is an heirloom of the Elven Kingdom of Elgarest. The owner also 
+gives Lia some free items. When they ask about Nom and explain he is 
+following them, the magic owner rushes them out if the shop saying that Nom 
+is a powerful, fearsome being that he does not want to cross. Renfri then 
+goes to an old couple's house who nurture and sell animals. She meets a 
+black Raven who is keen to go on an adventure and spread his wings.
+He settles on Renfri's shoulder. Renfri hears the sound of animalistic
+laughing...
+</div>
