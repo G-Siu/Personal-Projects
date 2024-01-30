@@ -682,3 +682,48 @@ It was a crazy competition and anyone's game at the end. I genuinely had no
 idea who was going to win.
 Well played!
 </div>
+
+### Session 10
+
+<div style="text-align: justify">
+Jessy is crowned the winner of the Festival of the Hunt and is awarded the
+winged boots. Krusk invites all the participants to a large feast in the
+Fighting Pit that evening and encourages then to enjoy the rest of the festival
+in the town. Thokk and Martin both fuss over their daughters, saying how proud
+they are of them and their efforts in the festival. Pip then challenges Thokk
+to a one-on-one fight to showcase her skills. He defeats her fairly easily (she
+had of course, just been battling several creatures!). The whole party join The
+Rat Pack and Martin for drinks in the Half-Orc Quarter's local pub where Renfri
+and Feng get absolutely wasted. Renfri starts to tell Feng about their
+adventures in Stormwreck Isle and the undead they fought. On hearing this,
+Thokk and Martin begin whispering which Lia picks up on. On the way back to The
+Fighting Pit, Martin pulls Lia aside and asks her to tell him more about
+Stormwreck Isle. He reveals that The Rat Pack and several other fighters are
+leading an assault on The Metal Mines in the morning as hoards of undead have
+been spotted coming out of the mines. The mine boss has also been missing for a
+couple of weeks. Many are afraid that Klegas will soon be under attack. Pip
+eavesdrops on Thokk and Vondal discussing the morning assault and how Vespera
+Shadowmire may be involved after hearing Renfri's drunken ramblings. On
+arriving at The Fighting Pit, the party hear the familiar notes of the
+Fleetwood Trio. They talk to Maria who reveals that Vespera Shadowmire is one
+of her clients. She is part of a noble family with connections to the Elven
+King of Elgarest but reveals that she was poorly treated and abused by her
+father growing up. This was part of the reason why she had joined the council,
+in order to help those trapped in abusive circumstances. Maria also notes that
+Vespera has seemed distant and strange in recent appointments. The feast begins
+and Thokk presents Jessy as Champion of the Hunt. Jessy gives a quick speech to
+raucous applause. The party then retire for the evening and discuss what they
+are going to do. In the morning, the party walks through a quiet Klegas and out
+the southern gates. There are guards and fighters preparing themselves for
+battle. Adran calls out to Jessy and reveals that the Fleetwood Trio are going
+to help the city guard protect Klegas from an assault on its walls. After a
+slightly awkward conversation, Jessy parts feeling inspired. The party overtake
+the fighters and, following Lia's directions, arrive at The Metal Mines where
+they see a hoard of zombies and skeletons in the basin area in front of the
+mines. Jessy uses her winged boots to get a better view. They hear a loud
+scraping sound and a skeleton minotaur appears above the entrance to the mine
+and roars loudly. A ghast exits the mine entrance, sees Jessy and says "
+Welcome" then bids the hoard of undead to advance and they begin moving 
+towards
+our party and towards Klegas.
+</div>
