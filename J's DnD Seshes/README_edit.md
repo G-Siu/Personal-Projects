@@ -727,3 +727,47 @@ Welcome" then bids the hoard of undead to advance and they begin moving
 towards
 our party and towards Klegas.
 </div>
+
+### Session 11
+
+<div style="text-align: justify">
+The hoard continues to move towards Klegas and the ghast goes back into the 
+mines. The party spring into action. Renfri and Pip use their rogue skills 
+to sneak towards the mines whilst the fighters from Klegas begin their 
+attack on the hoard. Jessy keeps to the skies and manages to land, 
+undetected, at the mine entrance. Lia begins her assault on the skeletons 
+and zombies, firing arrows from a vantage point. The skeleton minotaur 
+notices Pip and Renfri approaching and encourages them to attack him. Renfri
+Pip and Jessy begin their assault on the minotaur. Jessy notices a strange 
+pattern of dust in the distance from where they came. Lia is pinned back by 
+skeletons and can't move from her position. The skeleton minotaur brings 
+its great axe down onto Jessy, almost killing her. She manages to move away 
+and heal herself. Renfri gives her a potion. 
+At this point, the sound of an engine is heard and an armoured vehicle 
+smashes through the hoard. Martin Strongbrooke behind the wheel shouts out 
+"Now!" and The Rat Pack burst out and begin attacking the hoard. 
+
+Thokk rushes to help Pip. Martin asks where Lia is and immediately swings 
+the car round to pick her up. The attack on the minotaur continues. Martin 
+brings Lia through the hoard to the front of the mines. Together, the party 
+defeats the minotaur with Pip landing the final blow causing bones dust to 
+fly everywhere. The Rat Pack and Martin stay outside to fight off the hoard 
+whilst the party enter the mines. They defeat the remaining zombies and 
+skeletons inside and Lia finds a chest filled with jewels. 
+
+Renfri finds a skeleton horse still attached to its mining cart and mercy 
+ kills it. The party come across a well which Pip and Renfri investigate. 
+When they move a cart blocking the exit, walls close up at the exits and 
+the room suddenly starts filling with water. They move the cart back to its 
+original position and climb over it instead. On the 2nd floor, they find a 
+laboratory where Renfri finds a diamond. Pip searches the barracks. "Is that 
+a chest?" No, it was a wall. 
+
+Renfri sneaks around the corner and notices the ghast blocking the door with 
+two ghouls. The party decide to go for a sneak attack and manage to take 
+them out surprisingly easily. They use the lift to head down into the 3rd 
+and final floor. On the final floor, Pip finds a chest with jewels and 
+Renfri looks around the corner leading to the mine boss's office. She sees 
+a figure, somewhere between life and death, furiously scribbling on paper 
+and muttering to himself.
+</div>
