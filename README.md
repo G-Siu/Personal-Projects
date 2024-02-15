@@ -63,4 +63,7 @@ party's names in the markdown document with colour for ease of reading. I
 learned that markdown syntax does not support colour, which led to the use 
 of HTML markup instead.
 -------------------------------------------------------------------------------
+### *Date Difference*
+Misunderstood assignment and created a date difference program that can calculate the difference between two dates by days. Super simple.
+-------------------------------------------------------------------------------
 </div>
