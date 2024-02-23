@@ -771,3 +771,51 @@ Renfri looks around the corner leading to the mine boss's office. She sees
 a figure, somewhere between life and death, furiously scribbling on paper 
 and muttering to himself.
 </div>
+
+### Session 12
+
+<div style="text-align: justify">
+The party draw out the wight whilst Pip sneaks behind him. They attack him 
+and are able to defeat him quite quickly. Pip gathers his notes on the 
+various jewels in the mine, their location and what they are worth. The 
+wight had some gold on his person and a locket with photo of a man, a woman 
+and a young girl inside it. 
+
+The party head down the carved out corridor with stone pillars. Renfri 
+reads the writing on the wall, and it appears to be a temple dedicated to 
+the God of Necromancy, Velsharoon. They approach a chamber with a door on 
+one side and 4 dragon statues in each corner. Renfri identifies the door as 
+being trapped. The party retreat to the corridor and Lia throws a rock at 
+the door handle which triggers the trap. Spears shoot out into the empty 
+space and the door opens. 
+
+The party descend into the darkness and come across a large underground 
+chamber with four carved pillars in each corner. The pillars are glowing 
+blue and Renfri reads the carvings which discuss the resurrection of 
+Velsharoon. At the end of the chamber they see stairs leading to an altar. 
+Inara is chained on one side of the alter. Vespera stands holding her hands 
+aloft. The silver dragon egg is in front of her, and she is wearing Renfri's 
+necklace which is glowing red. 
+
+Vespera's skin is grey and her eyes are fairly lifeless. She is slowly 
+becoming a lich. Renfri and Pip begin sneaking forward and Renfri sends a 
+message to Inara that they are here to help. Vespera continues the ritual 
+until Renfri shoots her necklace away, and it lands on the other side of the 
+altar. Jessy flies up and takes it. Vespera follows immediately and a battle 
+ensues. Renfri releases Inara who helps the party. Pip secures the dragon 
+egg. Lia rushes up to Verspera and she and Jessy engage in close combat.
+
+Vespera uses her lich abilities and her lair's magic to inflict heavy damage 
+on the party, bringing three of them into the red zone. Jessy attempts to 
+flee with the necklace and fires an arrow straight through Vespera's head. 
+Seconds before being shot, her skin returns to its normal hue, her eyes 
+widen, and she says "Renfri, I'm sorry". Jessy uses her talk to the dead 
+spell to ask Vespera some questions. The party panics and asks questions 
+that don't really give any insight other than Vespera is connected to 
+Renfri in some way. 
+
+The party leave the mines and Inara uses her magic to collapse the tunnel 
+behind them, leaving Vespera's body and the temple of Velsharoon in ruins. 
+The party make their way to the mine entrance and hear the voices of The 
+Rat Pack and Martin Strongbrooke.
+</div>
