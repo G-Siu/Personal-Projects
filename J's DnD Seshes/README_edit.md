@@ -819,3 +819,70 @@ behind them, leaving Vespera's body and the temple of Velsharoon in ruins.
 The party make their way to the mine entrance and hear the voices of The 
 Rat Pack and Martin Strongbrooke.
 </div>
+
+### Session 13
+<div style="text-align: justify">
+The party reunite with Martin Strongbrooke and The Rat Pack at the mine
+entrance. Inara checks the dragon egg and the necklace to ensure Vespera's 
+spell is not lingering on them. They are clear, but she does note that 
+Renfri's necklace has a curse on it. The party return to Klegas where Adran 
+asks if Jessy wants to go for a drink. She agrees. Maria pulls Lia aside 
+and shows her Jessy's wanted poster. She informs Lia that high elves have 
+been seen in Klegas and that she can help get them out. 
+
+Wanting to leave quickly, Renfri reluctantly sends Rook to retrieve Jessy. 
+He poops on Adran who has to clean himself off and Jessy leaves a note for 
+him saying "Raincheck". When reunited with the party, Jessy uses her magic 
+to alter self. Pip and The Rat Pack have an emotional goodbye, and they vow 
+to distract as many high elves as possible in the city. Martin and Maria 
+meet the party at the farm, give them supplies and see them off. The 
+Strongbrookes ask Lia to look for her brother Mark when back in Mythrandir 
+as he was doing business with Baku, and they haven't heard from him in 2 weeks. 
+
+En route to Nowhere, the party encounter a merchant who says he has tricked 
+some villagers in Aerith by giving them false supplies, and now they are 
+chasing him. He offers the party some of his takings if they redirect the 
+mob. The party agrees and take his supplies. When the mob arrives, they 
+send them towards Klegas. 
+
+In Nowhere, Renfri speaks to Old Man Lutz who tells her that he became 
+aware of the curse on her necklace when Renfri became ill when wearing the 
+necklace after mother died. He put a protection on her so that the curse 
+did not affect her. He also informs her that her father is alive and is the 
+Kingsguard Paladin, Calmacil Shadowmire. Renfri reintroduces him to Jessy 
+and her necklace which is similar to her own. Old Man Lutz tells them the 
+necklace is one of the Elven Crown Jewels but says he will not tell Jessy 
+any more of her story as it is not his story to tell. He also informs Jessy 
+that her father is in Aerith as he was on his way to meet Jessy in Klegas 
+after she won the Festival of the Hunt. 
+
+The party head to Aerith where they arrive at Jessy's old home. Smoke is 
+rising from the chimney, and they find Jessy's father Taris Sylfir inside. 
+They gather round the table and Jessy shows her dad the wanted poster and 
+asks for the truth. Taris reveals a wanted poster of himself and tells 
+Jessy that his true name is not Taris Sylfir but Taris Perorra, bastard son 
+of the late, late King of Elgarest. Her mother is the Elven Queen Orilana 
+Sylfir from the Elven Mountain Kingdom of Ered. Her mother was forced to 
+marry his brother Eladithas Perorra in order to unite the two kingdoms and 
+stop the war. 
+
+At that time, Jessy and her father were banished. Now Taris's brother is 
+dead and the new King Sylmenor Perorra (Jessy's half brother) is looking 
+for them. He also reveals that the necklace opens a portal to the Feywild 
+and that only the true heir to the Elven throne can use the phrase to open 
+the portal. At this point, Jessy is pulled off her seat by an invisible 
+force which takes the necklace and runs out of the house. Lia, Pip and 
+Renfri leap into action and try to grab the necklace. Lia and Renfri block 
+the path whilst Pip grapples with the invisible man. Renfri shouts "Nom" 
+and he appears. He begs them to open the portal with the necklace. Renfri 
+and Pip calm him down, and he agrees to wait until morning once they've had 
+a chance to keep talking. 
+
+Back inside the house, Taris tells Jessy the phrase which she utters. 
+Suddenly, the party find themselves transported into the Feywild. Standing 
+before them where Nom had been is a tall, muscular figure with skin the 
+colour of oak. His hair is thatched and braided with brambles, and he wears 
+a cloak of green leaves stitched onto brown leather. He thanks the party 
+and introduces himself as Oberon, the Faerie King, Lord of Beasts and deity 
+of the wilderness and animals.
+</div>

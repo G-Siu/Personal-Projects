@@ -819,3 +819,70 @@ behind them, leaving Vespera's body and the temple of Velsharoon in ruins.
 The party make their way to the mine entrance and hear the voices of The 
 Rat Pack and Martin Strongbrooke.
 </div>
+
+### Session 13
+<div style="text-align: justify">
+The party reunite with Martin Strongbrooke and The Rat Pack at the mine
+entrance. Inara checks the dragon egg and the necklace to ensure Vespera's 
+spell is not lingering on them. They are clear, but she does note that 
+<span style="color:#141524">Renfri</span>'s necklace has a curse on it. The party return to Klegas where Adran 
+asks if <span style="color:#46503C">Jessy</span> wants to go for a drink. She agrees. Maria pulls <span style="color:#BAE8FF">Lia</span> aside 
+and shows her <span style="color:#46503C">Jessy</span>'s wanted poster. She informs <span style="color:#BAE8FF">Lia</span> that high elves have 
+been seen in Klegas and that she can help get them out. 
+
+Wanting to leave quickly, <span style="color:#141524">Renfri</span> reluctantly sends Rook to retrieve <span style="color:#46503C">Jessy</span>. 
+He poops on Adran who has to clean himself off and <span style="color:#46503C">Jessy</span> leaves a note for 
+him saying "Raincheck". When reunited with the party, <span style="color:#46503C">Jessy</span> uses her magic 
+to alter self. <span style="color:#6C5078">Pip</span> and The Rat Pack have an emotional goodbye, and they vow 
+to distract as many high elves as possible in the city. Martin and Maria 
+meet the party at the farm, give them supplies and see them off. The 
+Strongbrookes ask <span style="color:#BAE8FF">Lia</span> to look for her brother Mark when back in Mythrandir 
+as he was doing business with Baku, and they haven't heard from him in 2 weeks. 
+
+En route to Nowhere, the party encounter a merchant who says he has tricked 
+some villagers in Aerith by giving them false supplies, and now they are 
+chasing him. He offers the party some of his takings if they redirect the 
+mob. The party agrees and take his supplies. When the mob arrives, they 
+send them towards Klegas. 
+
+In Nowhere, <span style="color:#141524">Renfri</span> speaks to Old Man Lutz who tells her that he became 
+aware of the curse on her necklace when <span style="color:#141524">Renfri</span> became ill when wearing the 
+necklace after mother died. He put a protection on her so that the curse 
+did not affect her. He also informs her that her father is alive and is the 
+Kingsguard Paladin, Calmacil Shadowmire. <span style="color:#141524">Renfri</span> reintroduces him to <span style="color:#46503C">Jessy</span> 
+and her necklace which is similar to her own. Old Man Lutz tells them the 
+necklace is one of the Elven Crown Jewels but says he will not tell <span style="color:#46503C">Jessy</span> 
+any more of her story as it is not his story to tell. He also informs <span style="color:#46503C">Jessy</span> 
+that her father is in Aerith as he was on his way to meet <span style="color:#46503C">Jessy</span> in Klegas 
+after she won the Festival of the Hunt. 
+
+The party head to Aerith where they arrive at <span style="color:#46503C">Jessy</span>'s old home. Smoke is 
+rising from the chimney, and they find <span style="color:#46503C">Jessy</span>'s father Taris Sylfir inside. 
+They gather round the table and <span style="color:#46503C">Jessy</span> shows her dad the wanted poster and 
+asks for the truth. Taris reveals a wanted poster of himself and tells 
+<span style="color:#46503C">Jessy</span> that his true name is not Taris Sylfir but Taris Perorra, bastard son 
+of the late, late King of Elgarest. Her mother is the Elven Queen Orilana 
+Sylfir from the Elven Mountain Kingdom of Ered. Her mother was forced to 
+marry his brother Eladithas Perorra in order to unite the two kingdoms and 
+stop the war. 
+
+At that time, <span style="color:#46503C">Jessy</span> and her father were banished. Now Taris's brother is 
+dead and the new King Sylmenor Perorra (<span style="color:#46503C">Jessy</span>'s half brother) is looking 
+for them. He also reveals that the necklace opens a portal to the Feywild 
+and that only the true heir to the Elven throne can use the phrase to open 
+the portal. At this point, <span style="color:#46503C">Jessy</span> is pulled off her seat by an invisible 
+force which takes the necklace and runs out of the house. <span style="color:#BAE8FF">Lia</span>, <span style="color:#6C5078">Pip</span> and 
+<span style="color:#141524">Renfri</span> leap into action and try to grab the necklace. <span style="color:#BAE8FF">Lia</span> and <span style="color:#141524">Renfri</span> block 
+the path whilst <span style="color:#6C5078">Pip</span> grapples with the invisible man. <span style="color:#141524">Renfri</span> shouts "Nom" 
+and he appears. He begs them to open the portal with the necklace. <span style="color:#141524">Renfri</span> 
+and <span style="color:#6C5078">Pip</span> calm him down, and he agrees to wait until morning once they've had 
+a chance to keep talking. 
+
+Back inside the house, Taris tells <span style="color:#46503C">Jessy</span> the phrase which she utters. 
+Suddenly, the party find themselves transported into the Feywild. Standing 
+before them where Nom had been is a tall, muscular figure with skin the 
+colour of oak. His hair is thatched and braided with brambles, and he wears 
+a cloak of green leaves stitched onto brown leather. He thanks the party 
+and introduces himself as Oberon, the Faerie King, Lord of Beasts and deity 
+of the wilderness and animals.
+</div>
