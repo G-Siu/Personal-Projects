@@ -12,6 +12,9 @@ The data retrieved is uploaded to Google Sheets via Sheety.<br />
 05/11/2023: Update with columns for consumption rate, price, with cost per 
 half hour segments. New sheet for November added. Automate month/year
 for Sheety put hyperlink and json header.<br />
+### *Last Day of Month*
+Function to check if current day is last day of the month.<br />
+17/03/2024: Created.
 #### *TODO*
 Possible TODO in future is to add user input to get product and tariff codes 
 to user personal electricity rates and prices. <br />
@@ -59,8 +62,8 @@ friend's DnD sessions. This includes summaries of each session, AI
 generated pictures of characters, etc. All content belongs to said friend 
 and DnD group.<br />
 Within this project, I wrote a Python script to automatically convert the 
-party's names in the markdown document with colour for ease of reading. I 
-learned that markdown syntax does not support colour, which led to the use 
+party's names in the Markdown document with colour for ease of reading. I 
+learned that Markdown syntax does not support colour, which led to the use 
 of HTML markup instead.
 -------------------------------------------------------------------------------
 ### *Date Difference*
