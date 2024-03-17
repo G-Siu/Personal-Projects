@@ -15,16 +15,23 @@ for Sheety put hyperlink and json header.<br />
 ### *Last Day of Month*
 Function to check if current day is last day of the month.<br />
 17/03/2024: Created.
+### *Add Sheet*
+Utilises Google API to add new sheet on an existing spreadsheet.<br />
+17/03/2024: Created. Needs to be incorporated into main Octopus code.
 #### *TODO*
 Possible TODO in future is to add user input to get product and tariff codes 
 to user personal electricity rates and prices. <br />
-Currently cannot add new sheet using the Sheety API. May require google API 
+~~Currently cannot add new sheet using the Sheety API. May require google API 
 directly to create new sheets. Transfer of project to google API may be 
 necessary. Or use selenium to automate new sheet creation as a 'simpler' 
-workaround. <br />
+workaround.~~ <br />
 For robustness, program should pull latest date reported on Google Sheets. 
 This is so that in event of failure in data transfer, the missing rows can 
-be added up to the current day.
+be added up to the current day.<br />
+Main code should insert current date into imported add sheets script. Need to 
+add headers and 
+conditional formatting to newly 
+created sheets.
 -------------------------------------------------------------------------------
 ### *CS50 Final Project*
 The project outlined in CS50p is left up to me to work through, with the 
