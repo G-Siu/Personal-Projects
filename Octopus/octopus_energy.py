@@ -24,7 +24,7 @@ energy_api = oe_api(account_number,
                     serial_number=serial_number)
 
 # Add new sheet if end of month
-if ldom.last_day_of_month():
+if ldom.main():
     creds = add_sheet.load_or_refresh_credentials()
     add_sheet.google_sheet_api(creds)
 
