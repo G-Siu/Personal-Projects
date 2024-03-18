@@ -8,7 +8,7 @@
 #
 # # Print the column names and their data types
 # print(df.info())
-#
+
 # # Remove '-' values in the `2021` column
 # df = df[df['2021'] != '-']
 #

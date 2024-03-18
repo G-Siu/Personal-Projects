@@ -12,12 +12,14 @@ The data retrieved is uploaded to Google Sheets via Sheety.<br />
 05/11/2023: Update with columns for consumption rate, price, with cost per 
 half hour segments. New sheet for November added. Automate month/year
 for Sheety put hyperlink and json header.<br />
+18/03/2024: Now adds new sheet at the end of month.<br />
 ### *Last Day of Month*
 Function to check if current day is last day of the month.<br />
 17/03/2024: Created.
 ### *Add Sheet*
 Utilises Google API to add new sheet on an existing spreadsheet.<br />
-17/03/2024: Created. Needs to be incorporated into main Octopus code.
+17/03/2024: Created. Needs to be incorporated into main Octopus code.<br />
+18/03/2024: Now automatically adds the month and year as new sheet name.
 #### *TODO*
 Possible TODO in future is to add user input to get product and tariff codes 
 to user personal electricity rates and prices. <br />
@@ -28,10 +30,8 @@ workaround.~~ <br />
 For robustness, program should pull latest date reported on Google Sheets. 
 This is so that in event of failure in data transfer, the missing rows can 
 be added up to the current day.<br />
-Main code should insert current date into imported add sheets script. Need to 
-add headers and 
-conditional formatting to newly 
-created sheets.
+~~Main code should insert current date into imported add sheets script.~~ 
+Need to add headers and conditional formatting to newly created sheets.
 -------------------------------------------------------------------------------
 ### *CS50 Final Project*
 The project outlined in CS50p is left up to me to work through, with the 
