@@ -45,10 +45,10 @@ def calculate_hourly_rate_scotland():
         mandatory_deductions = 0.12  # 12% of salary goes towards National Insurance
 
         # Calculate hourly rate before tax and deductions
-        hourly_rate_before_tax = salary / (40 * 52) - 5.6
+        hourly_rate_before_tax = salary / (40 * 52)
 
         # Calculate hourly rate after tax and deductions
-        hourly_rate_after_tax = (hourly_rate_before_tax * (1 - tax/salary)) * (1 - mandatory_deductions)
+        hourly_rate_after_tax = (salary / (40 * (52 - 5.6)) * (1 - tax/salary)) * (1 - mandatory_deductions)
 
         # Calculate gross hourly rate
         gross_hourly_rate = hourly_rate_before_tax
