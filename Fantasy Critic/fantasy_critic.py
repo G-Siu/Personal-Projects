@@ -39,6 +39,15 @@ def upcoming_releases(page_body):
     # Extract table rows
     rows = table_body.find_all("tr")
     # print(rows)
+
+    # Check local if already saved game recently
+    with open("release_soon.txt", "r") as f:
+        # Read and store lines in list and emit \n
+        file = f.read().splitlines()
+
+    # Split lines into name key and date value
+    games = {name: date for name, date in (line.split(",") for line in file)}
+
     # Get each row name and date
     for row in rows:
         # Get columns in the row
@@ -48,11 +57,15 @@ def upcoming_releases(page_body):
         # Convert date string to datetime format
         date = dt.datetime.strptime(columns[1].text.strip(),
                                     "%Y-%m-%d").date()
-        # Check if game releases within 2 days
-        if dt.date.today() + dt.timedelta(days=2) >= date:
-            # Append games to file
-            with open("release_soon.txt", "a") as f:
-                f.write(f"{name},{str(date)}\n")
+        # Add new games to dictionary
+        games[name] = str(date)
+
+    # for name, date in games:
+    #     # Check if game releases within 2 days
+    #     if dt.date.today() + dt.timedelta(days=2) >= date:
+    #         # Append games to file
+    #         with open("release_soon.txt", "a") as f:
+    #             f.write(f"{name},{str(date)}\n")
 
 
 def main():
