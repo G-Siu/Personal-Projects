@@ -4,9 +4,12 @@ from selenium.webdriver.firefox.options import Options
 import datetime as dt
 import time
 
-SITE = "https://www.fantasycritic.games/league/"
+# Fantasy Critic league
+FANTASY_CRITIC = "https://www.fantasycritic.games/league/"
 LEAGUE = "ce6cdb0b-2be1-4290-8988-1b5552b8106d/2024"
 
+# Open Critic
+OPEN_CRITIC = "https://opencritic.com/"
 
 def fantasy_critic_league():
     options = Options()
@@ -14,7 +17,7 @@ def fantasy_critic_league():
     options.add_argument("--headless")
     driver = webdriver.Firefox(options=options)
     # Make request using selenium
-    driver.get(SITE + LEAGUE)
+    driver.get(FANTASY_CRITIC + LEAGUE)
 
     # Wait 2 seconds for page to load
     time.sleep(2)
@@ -41,37 +44,67 @@ def upcoming_releases(page_body):
     # print(rows)
 
     # Check local if already saved game recently
-    with open("release_soon.txt", "r") as f:
-        # Read and store lines in list and emit \n
-        file = f.read().splitlines()
+    try:
+        with open("release_soon.txt", "r") as f:
+            # Read and store lines in list and emit \n
+            file = f.read().splitlines()
+            # Split lines into name key and date value
+            games = {name: date for name, date in
+                     (line.split(",") for line in file)}
+    except FileNotFoundError:
+        games = {}
 
-    # Split lines into name key and date value
-    games = {name: date for name, date in (line.split(",") for line in file)}
-
+    released = []
     # Get each row name and date
-    for row in rows:
-        # Get columns in the row
-        columns = row.find_all("td")
-        # Name of game
-        name = columns[0].text.strip()
-        # Convert date string to datetime format
-        date = dt.datetime.strptime(columns[1].text.strip(),
-                                    "%Y-%m-%d").date()
-        # Add new games to dictionary
-        games[name] = str(date)
+    with open("release_soon.txt", "a") as f:
+        for row in rows:
+            # Get columns in the row
+            columns = row.find_all("td")
+            # Name of game
+            name = columns[0].text.strip()
+            # Convert date string to datetime format
+            date = dt.datetime.strptime(columns[1].text.strip(),
+                                        "%Y-%m-%d").date()
+            # Check if game releases within 2 days
+            if dt.date.today() + dt.timedelta(days=5) >= date:
+                if name not in games.keys() and date != dt.date.today():
+                    # Append games to file
+                    f.write(f"{name},{str(date)}\n")
+            # Check release date
+            if date <= dt.date.today():
+                # If release today, add to list
+                released.append(name)
+    return released
 
-    # for name, date in games:
-    #     # Check if game releases within 2 days
-    #     if dt.date.today() + dt.timedelta(days=2) >= date:
-    #         # Append games to file
-    #         with open("release_soon.txt", "a") as f:
-    #             f.write(f"{name},{str(date)}\n")
+
+def update_file(list_games_today):
+    for game in list_games_today:
+        new_lines = []
+        with open("release_soon.txt", "r") as f:
+            lines = f.read().splitlines()
+            for line in lines:
+                if game not in line and line not in new_lines:
+                    new_lines.append(line)
+        with open("release_soon.txt", "w") as f:
+            f.write("\n".join(new_lines))
+            f.write("\n")
+        print(new_lines)
+
+
+def open_critic(released_games):
+    options = Options()
+    # Option argument to not open browser
+    options.add_argument("--headless")
+    driver = webdriver.Firefox(options=options)
+    # Make request using selenium
+    driver.get(OPEN_CRITIC)
 
 
 def main():
-    upcoming_releases(fantasy_critic_league())
-# Check couple days before release
-# Add name and release date to a list
+    released = upcoming_releases(fantasy_critic_league())
+    if released:
+        update_file(released)
+
 # Check rating on day of release
 
 
