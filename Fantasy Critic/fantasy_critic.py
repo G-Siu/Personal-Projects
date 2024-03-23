@@ -3,13 +3,12 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import datetime as dt
 import time
+import open_critic
 
 # Fantasy Critic league
 FANTASY_CRITIC = "https://www.fantasycritic.games/league/"
 LEAGUE = "ce6cdb0b-2be1-4290-8988-1b5552b8106d/2024"
 
-# Open Critic
-OPEN_CRITIC = "https://opencritic.com/"
 
 def fantasy_critic_league():
     options = Options()
@@ -91,13 +90,7 @@ def update_file(list_games_today):
         print(new_lines)
 
 
-def open_critic(released_games):
-    options = Options()
-    # Option argument to not open browser
-    options.add_argument("--headless")
-    driver = webdriver.Firefox(options=options)
-    # Make request using selenium
-    driver.get(OPEN_CRITIC)
+
 
 
 def main():
