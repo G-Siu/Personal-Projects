@@ -1,9 +1,11 @@
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
+from open_critic import open_critic
+from signal import signal
 import datetime as dt
 import time
-import open_critic
+
 
 # Fantasy Critic league
 FANTASY_CRITIC = "https://www.fantasycritic.games/league/"
@@ -90,15 +92,14 @@ def update_file(list_games_today):
         print(new_lines)
 
 
-
-
-
 def main():
     released = upcoming_releases(fantasy_critic_league())
     if released:
         update_file(released)
-
-# Check rating on day of release
+    # Check rating on day of release
+    for game in released:
+        open_critic(game)
+        signal()
 
 
 if __name__ == "__main__":

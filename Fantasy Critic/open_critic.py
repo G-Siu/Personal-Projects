@@ -17,7 +17,7 @@ def open_critic(released_games):
     driver.get(OPEN_CRITIC)
     driver.set_window_size(1980, 1080)
     # Wait 2 seconds for page to load
-    driver.implicitly_wait(2)
+    driver.implicitly_wait(4)
 
     # Accept T&C
     driver.switch_to.frame("sp_message_iframe_1084011")
@@ -33,7 +33,7 @@ def open_critic(released_games):
     # Look at search dropdown and check if the game exists
     text = driver.find_element(By.ID, "ngb-typeahead-0-0")
     if text.text == released_games:
-        (WebDriverWait(driver, 2)
+        (WebDriverWait(driver, 4)
          .until(EC.element_to_be_clickable(
             (By.XPATH, "//button[@id='ngb-typeahead-0-0']"))).click())
     else:
@@ -44,8 +44,11 @@ def open_critic(released_games):
         By.CSS_SELECTOR,
         "div.mb-4:nth-child(3) > div:nth-child(1) > div:nth-child(1)")
      .screenshot("screenshot.png"))
+    driver.quit()
 
 
 if __name__ == "__main__":
-    released_games = "Dragon's Dogma 2"
-    open_critic(released_games)
+    released_games = ["Dragon's Dogma 2", "Princess Peach: Showtime!",
+                      "Rise of the Ronin"]
+    for game in released_games:
+        open_critic(game)
