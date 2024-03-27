@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from open_critic import open_critic
-from signal import signal
 import datetime as dt
 import time
 
@@ -39,7 +38,6 @@ def upcoming_releases(page_body):
     # print(tables.prettify())
     table_body = tables.find("tbody")
     # print(table_body.prettify())
-
     # Extract table rows
     rows = table_body.find_all("tr")
     # print(rows)
@@ -99,7 +97,6 @@ def main():
     # Check rating on day of release
     for game in released:
         open_critic(game)
-        signal()
 
 
 if __name__ == "__main__":
