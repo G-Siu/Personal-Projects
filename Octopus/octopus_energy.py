@@ -23,11 +23,6 @@ energy_api = oe_api(account_number,
                     mpan=mpan,
                     serial_number=serial_number)
 
-# Add new sheet if end of month
-if ldom.main():
-    creds = add_sheet.load_or_refresh_credentials()
-    add_sheet.google_sheet_api(creds)
-
 # Get consumption, standing charge, and cost per day
 for i in range(1, 0, -1):
     # Get starting date with next date
@@ -36,6 +31,10 @@ for i in range(1, 0, -1):
     start_day = datetime.date.today() - datetime.timedelta(days=day_before)
     end_day = datetime.date.today() - datetime.timedelta(days=day_after)
 
+    # Add new sheet if end of month
+    if ldom.is_last_day_of_month(start_day):
+        creds = add_sheet.load_or_refresh_credentials()
+        add_sheet.google_sheet_api(creds)
     # Get standing charge per day
     params = {
         "period_from": start_day,
@@ -105,8 +104,7 @@ for i in range(1, 0, -1):
         json[new_sheet_name][half_hour_time[data]] = half_hour[data]
 
     # Send data to Google Sheets
-    sheety_put = (f"https://api.sheety.co/3dbfe1f109be8ab861bbb4646c950d9c"
-                  f"/octopusEnergyCostAgile/{new_sheet_name}")
+    sheety_put = ()
     upload_to_sheet = requests.post(url=sheety_put, json=json)
 
     # print(len(half_hour))

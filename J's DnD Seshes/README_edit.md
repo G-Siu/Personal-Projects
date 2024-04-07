@@ -886,3 +886,55 @@ a cloak of green leaves stitched onto brown leather. He thanks the party
 and introduces himself as Oberon, the Faerie King, Lord of Beasts and deity 
 of the wilderness and animals.
 </div>
+
+### Session 14
+<div style="text-align:justify">
+Oberon thanks the party for returning him to the Feywild and says he will 
+bestow gifts upon them if they can make it to The Summer Court, the Kingdom 
+in the Feywild that his wife, Titania, rules over. He vanishes in a flurry 
+of leaves and the party make their way lightward to The Summer Court. On 
+their travels they see many strange and wonderous things such as a pegasus 
+fly overhead, a dryad bowing to Jessy and Taris and little bellflowers that 
+ring like bells. On leaving the woods they come across a bridge and a troll 
+called Denk refuses them passage unless they solve his puzzle poems and 
+they feed him. 
+
+Renfri stealths past and Pip and Jessy work together to solve all the 
+ riddles. Renfri then feeds him some of his own food that she found under 
+the bridge when snooping for treasure. The party continue on and on and on. 
+The light never fades and they decide to rest. Lia lies on the grass and 
+hears someone say "Get off me". Assuming it is a fairy or other fey 
+creature, she asks the being to show itself. The being is in fact Blade, a 
+blade of grass. Pip gets excited and picks up Blade to see him more closely 
+which kills him. 
+
+All of a sudden, the field begin attacking the party to get revenge for 
+ Blade. The party runs and eventually intimidates the grass into submission 
+and they finally rest. During the watch, Pip and Lia see a strange mirage 
+near the sleeping party. The next day, even though there has been no night, 
+the party continue through a field of flowers which give off a sweet 
+smelling pollen. Pip smells the flowers and licks one. Soon, Pip and Rook 
+feel that they are melting into a puddle. Lia and Jessy suddenly believe 
+that everyone is taller than them. Taris believes he has ascended into 
+Godhood. And Renfri falls inexplicably in love with Pip and gives her 
+Jessy's necklace as a gift. 
+
+Eventually, Lia and Rook shake off the high and Lia sends Rook to get 
+flowers to combat the drug. She slaps Jessy who sees a giant Lia hand come 
+towards her and it knocks her into sense. Lia stamps on Pip's foot to force 
+her to realise that she is not melting which sets off Renfri who is 
+determined to protect her. Rook brings back the flowers to help Renfri and 
+Taris out of the spell. Lia warns Pip to stop touching everything. The 
+party continue on and see the strange mirage again. Pip and Renfri go to 
+investigate and are attacked by a small pack of displacer beasts. The party 
+fight back, including Taris who uses one of Jessy's weapons. 
+
+After killing two of the beasts and scaring off one, the party make their 
+ way into The Summer Court. Making their way through trees which wind into 
+the sky, they pass several Eladrin and other fey beings. Upon entering 
+Tatiana's Court, they hear satyrs playing pan pipes, see lush grasses and 
+flowers and a temple with gossamar curtains billowing in a light breeze. 
+Upon an ice throne carved into the shape of a dragon, the party behold 
+Tatiana, a gorgeous being with hair that shimmers in all the colours of the 
+autumn leaves. Standing beside her is Oberon.
+</div>

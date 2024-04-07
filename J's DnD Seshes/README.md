@@ -886,3 +886,55 @@ a cloak of green leaves stitched onto brown leather. He thanks the party
 and introduces himself as Oberon, the Faerie King, Lord of Beasts and deity 
 of the wilderness and animals.
 </div>
+
+### Session 14
+<div style="text-align:justify">
+Oberon thanks the party for returning him to the Feywild and says he will 
+bestow gifts upon them if they can make it to The Summer Court, the Kingdom 
+in the Feywild that his wife, Titania, rules over. He vanishes in a flurry 
+of leaves and the party make their way lightward to The Summer Court. On 
+their travels they see many strange and wonderous things such as a pegasus 
+fly overhead, a dryad bowing to <span style="color:#46503C">Jessy</span> and Taris and little bellflowers that 
+ring like bells. On leaving the woods they come across a bridge and a troll 
+called Denk refuses them passage unless they solve his puzzle poems and 
+they feed him. 
+
+<span style="color:#141524">Renfri</span> stealths past and <span style="color:#6C5078">Pip</span> and <span style="color:#46503C">Jessy</span> work together to solve all the 
+ riddles. <span style="color:#141524">Renfri</span> then feeds him some of his own food that she found under 
+the bridge when snooping for treasure. The party continue on and on and on. 
+The light never fades and they decide to rest. <span style="color:#BAE8FF">Lia</span> lies on the grass and 
+hears someone say "Get off me". Assuming it is a fairy or other fey 
+creature, she asks the being to show itself. The being is in fact Blade, a 
+blade of grass. <span style="color:#6C5078">Pip</span> gets excited and picks up Blade to see him more closely 
+which kills him. 
+
+All of a sudden, the field begin attacking the party to get revenge for 
+ Blade. The party runs and eventually intimidates the grass into submission 
+and they finally rest. During the watch, <span style="color:#6C5078">Pip</span> and <span style="color:#BAE8FF">Lia</span> see a strange mirage 
+near the sleeping party. The next day, even though there has been no night, 
+the party continue through a field of flowers which give off a sweet 
+smelling pollen. <span style="color:#6C5078">Pip</span> smells the flowers and licks one. Soon, <span style="color:#6C5078">Pip</span> and Rook 
+feel that they are melting into a puddle. <span style="color:#BAE8FF">Lia</span> and <span style="color:#46503C">Jessy</span> suddenly believe 
+that everyone is taller than them. Taris believes he has ascended into 
+Godhood. And <span style="color:#141524">Renfri</span> falls inexplicably in love with <span style="color:#6C5078">Pip</span> and gives her 
+<span style="color:#46503C">Jessy</span>'s necklace as a gift. 
+
+Eventually, <span style="color:#BAE8FF">Lia</span> and Rook shake off the high and <span style="color:#BAE8FF">Lia</span> sends Rook to get 
+flowers to combat the drug. She slaps <span style="color:#46503C">Jessy</span> who sees a giant <span style="color:#BAE8FF">Lia</span> hand come 
+towards her and it knocks her into sense. <span style="color:#BAE8FF">Lia</span> stamps on <span style="color:#6C5078">Pip</span>'s foot to force 
+her to realise that she is not melting which sets off <span style="color:#141524">Renfri</span> who is 
+determined to protect her. Rook brings back the flowers to help <span style="color:#141524">Renfri</span> and 
+Taris out of the spell. <span style="color:#BAE8FF">Lia</span> warns <span style="color:#6C5078">Pip</span> to stop touching everything. The 
+party continue on and see the strange mirage again. <span style="color:#6C5078">Pip</span> and <span style="color:#141524">Renfri</span> go to 
+investigate and are attacked by a small pack of displacer beasts. The party 
+fight back, including Taris who uses one of <span style="color:#46503C">Jessy</span>'s weapons. 
+
+After killing two of the beasts and scaring off one, the party make their 
+ way into The Summer Court. Making their way through trees which wind into 
+the sky, they pass several Eladrin and other fey beings. Upon entering 
+Tatiana's Court, they hear satyrs playing pan pipes, see lush grasses and 
+flowers and a temple with gossamar curtains billowing in a light breeze. 
+Upon an ice throne carved into the shape of a dragon, the party behold 
+Tatiana, a gorgeous being with hair that shimmers in all the colours of the 
+autumn leaves. Standing beside her is Oberon.
+</div>
