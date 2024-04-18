@@ -938,3 +938,72 @@ Upon an ice throne carved into the shape of a dragon, the party behold
 Tatiana, a gorgeous being with hair that shimmers in all the colours of the 
 autumn leaves. Standing beside her is Oberon.
 </div>
+
+### Session 15
+<div style="text-align:justify">
+Queen Tatiana welcomes the party and offers Jessy a choice of three staffs 
+to determine what kind of leader she will be. Oberon, impressed by the 
+party, bestows on them the gifts he promised. Lia receives the Human Mark 
+of Handling and can now talk to animals as well as use the dominate beast 
+spell. Pip receives a brass dragon egg and Oberon tells her that dragon eggs
+can be hatched inside the fire plane. He also advises her to return the 
+silver dragon egg. Renfri receives a blessing for Rook allowing her to 
+communicate and see through his eyes. Oberon bestows his friendship on 
+Jessy and Taris. Jessy chooses a staff and Tatiana gives her the password 
+to return to the material plane.
+
+Jessy utters the words and the party find themselves in a forest. The 
+forest has autumnal leaves and there is a slight chill in the air, very 
+different to the green, warm summer the party had left. Taris reveals they 
+are in the Kingdom of Elgarest. Lia looks through the trees and sees an 
+arrow aimed at them. She tells the party. Renfri hides. The party are 
+approached by several Elves and the Paladin of the Kingsguard, Calmacil 
+Shadowmire. He arrests them. Lia resists and Calmacil smites her down to 
+force the party to surrender. They are taken to the palace in Elgarest 
+where the nobleman, Aramil Shadowmire, sends Pip to the dungeon and tells 
+the guards to take Renfri and Lia to his chamber. 
+
+King Sylmenor enters and approaches Jessy and Taris. He removes her 
+necklace and utters the words to the Feywild. Nothing happens. He reveals 
+that he wasn't the one who sent out the wanted posters. It was their mother 
+who had done so. Orilana, Jessy's mother, appears and rushes towards her. 
+She gently touches her face and welcomes her and Taris home.
+
+Meanwhile, in Aramil's chamber, Lia and Renfri try to find a way to escape 
+and open a door which reveals a sex dungeon. Disgusted, they try to open 
+the other door but jump back when it begins to open. Renfri hides under the 
+bed and Lia picks up chains from the sex dungeon. Aramil enters and invites 
+Lia to join him for a glass of wine on the bed. She smacks him with the 
+chains. He likes it. Renfri attacks him from under the bed and he uses the 
+dominate person spell to freeze them both. He dresses them in the outfits 
+he had prepared and snatches the necklace from Renfri believing she was a 
+common thief who had stolen it. He puts it on. 
+
+Lia breaks free of the spell, grabs her weapons and begins beating the shit 
+ out of Aramil. Before she can land the final blow, Calmacil appears and 
+tells Lia to take Renfri and leave. Aramil tells him that Renfri had the 
+necklace and Calmacil responds "It looks better on you." Calmacil restores 
+Renfri from the spell and leaves. Renfri uses Rook to find Pip. In the 
+dungeons Pip tries to break the lock but struggles as the lock is of Elven 
+make. She looks out the window and sees Blitz fighting back against Elven 
+guards. She calls him to her and tells him to get the key from the guard. 
+
+With help from Rook, Blitz gets the key and Pip uses it to escape the cell. 
+She is then able to sneak out of the dungeon into the palace where she 
+meets Renfri and Lia. The three return to Aramil's chamber to retrieve Lia 
+and Renfri's gear. Pip peaks in and sees Aramil on the bed. She sneaks up 
+to him and notices that he is chocking, has turned a pale grey and his 
+veins are very visible. She slits his throat. Lia and Renfri grab their 
+gear and the three leave to find Jessy. 
+
+Inside the palace, Orilana invites Jessy and Taris for dinner. Sylmenor 
+ asks to speak to Jessy alone and he takes her into the gardens. At a 
+gazebo, he gives her his necklace and asks her to say the password. She 
+does. Nothing happens. Sylmemor reveals that Jessy's necklace is her 
+mother's and the crown jewels of the Mountain Kingdom of Ered. His are the 
+crown jewels of the Forest Kingdom of Elgarest and the jewels are his 
+father's. He tells Jessy that she has a decision to make. She has to choose 
+between being Jessy the Bard and Jessileana Perrora, Queen of Ered. They 
+return to the palace and reuinte with Pip, Lia and Renfri. Sylmenor invites 
+them to dinner with Orilana and Taris.
+</div>

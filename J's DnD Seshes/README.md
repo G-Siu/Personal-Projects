@@ -938,3 +938,72 @@ Upon an ice throne carved into the shape of a dragon, the party behold
 Tatiana, a gorgeous being with hair that shimmers in all the colours of the 
 autumn leaves. Standing beside her is Oberon.
 </div>
+
+### Session 15
+<div style="text-align:justify">
+Queen Tatiana welcomes the party and offers <span style="color:#46503C">Jessy</span> a choice of three staffs 
+to determine what kind of leader she will be. Oberon, impressed by the 
+party, bestows on them the gifts he promised. <span style="color:#BAE8FF">Lia</span> receives the Human Mark 
+of Handling and can now talk to animals as well as use the dominate beast 
+spell. <span style="color:#6C5078">Pip</span> receives a brass dragon egg and Oberon tells her that dragon eggs
+can be hatched inside the fire plane. He also advises her to return the 
+silver dragon egg. <span style="color:#141524">Renfri</span> receives a blessing for Rook allowing her to 
+communicate and see through his eyes. Oberon bestows his friendship on 
+<span style="color:#46503C">Jessy</span> and Taris. <span style="color:#46503C">Jessy</span> chooses a staff and Tatiana gives her the password 
+to return to the material plane.
+
+<span style="color:#46503C">Jessy</span> utters the words and the party find themselves in a forest. The 
+forest has autumnal leaves and there is a slight chill in the air, very 
+different to the green, warm summer the party had left. Taris reveals they 
+are in the Kingdom of Elgarest. <span style="color:#BAE8FF">Lia</span> looks through the trees and sees an 
+arrow aimed at them. She tells the party. <span style="color:#141524">Renfri</span> hides. The party are 
+approached by several Elves and the Paladin of the Kingsguard, Calmacil 
+Shadowmire. He arrests them. <span style="color:#BAE8FF">Lia</span> resists and Calmacil smites her down to 
+force the party to surrender. They are taken to the palace in Elgarest 
+where the nobleman, Aramil Shadowmire, sends <span style="color:#6C5078">Pip</span> to the dungeon and tells 
+the guards to take <span style="color:#141524">Renfri</span> and <span style="color:#BAE8FF">Lia</span> to his chamber. 
+
+King Sylmenor enters and approaches <span style="color:#46503C">Jessy</span> and Taris. He removes her 
+necklace and utters the words to the Feywild. Nothing happens. He reveals 
+that he wasn't the one who sent out the wanted posters. It was their mother 
+who had done so. Orilana, <span style="color:#46503C">Jessy</span>'s mother, appears and rushes towards her. 
+She gently touches her face and welcomes her and Taris home.
+
+Meanwhile, in Aramil's chamber, <span style="color:#BAE8FF">Lia</span> and <span style="color:#141524">Renfri</span> try to find a way to escape 
+and open a door which reveals a sex dungeon. Disgusted, they try to open 
+the other door but jump back when it begins to open. <span style="color:#141524">Renfri</span> hides under the 
+bed and <span style="color:#BAE8FF">Lia</span> picks up chains from the sex dungeon. Aramil enters and invites 
+<span style="color:#BAE8FF">Lia</span> to join him for a glass of wine on the bed. She smacks him with the 
+chains. He likes it. <span style="color:#141524">Renfri</span> attacks him from under the bed and he uses the 
+dominate person spell to freeze them both. He dresses them in the outfits 
+he had prepared and snatches the necklace from <span style="color:#141524">Renfri</span> believing she was a 
+common thief who had stolen it. He puts it on. 
+
+<span style="color:#BAE8FF">Lia</span> breaks free of the spell, grabs her weapons and begins beating the shit 
+ out of Aramil. Before she can land the final blow, Calmacil appears and 
+tells <span style="color:#BAE8FF">Lia</span> to take <span style="color:#141524">Renfri</span> and leave. Aramil tells him that <span style="color:#141524">Renfri</span> had the 
+necklace and Calmacil responds "It looks better on you." Calmacil restores 
+<span style="color:#141524">Renfri</span> from the spell and leaves. <span style="color:#141524">Renfri</span> uses Rook to find <span style="color:#6C5078">Pip</span>. In the 
+dungeons <span style="color:#6C5078">Pip</span> tries to break the lock but struggles as the lock is of Elven 
+make. She looks out the window and sees Blitz fighting back against Elven 
+guards. She calls him to her and tells him to get the key from the guard. 
+
+With help from Rook, Blitz gets the key and <span style="color:#6C5078">Pip</span> uses it to escape the cell. 
+She is then able to sneak out of the dungeon into the palace where she 
+meets <span style="color:#141524">Renfri</span> and <span style="color:#BAE8FF">Lia</span>. The three return to Aramil's chamber to retrieve <span style="color:#BAE8FF">Lia</span> 
+and <span style="color:#141524">Renfri</span>'s gear. <span style="color:#6C5078">Pip</span> peaks in and sees Aramil on the bed. She sneaks up 
+to him and notices that he is chocking, has turned a pale grey and his 
+veins are very visible. She slits his throat. <span style="color:#BAE8FF">Lia</span> and <span style="color:#141524">Renfri</span> grab their 
+gear and the three leave to find <span style="color:#46503C">Jessy</span>. 
+
+Inside the palace, Orilana invites <span style="color:#46503C">Jessy</span> and Taris for dinner. Sylmenor 
+ asks to speak to <span style="color:#46503C">Jessy</span> alone and he takes her into the gardens. At a 
+gazebo, he gives her his necklace and asks her to say the password. She 
+does. Nothing happens. Sylmemor reveals that <span style="color:#46503C">Jessy</span>'s necklace is her 
+mother's and the crown jewels of the Mountain Kingdom of Ered. His are the 
+crown jewels of the Forest Kingdom of Elgarest and the jewels are his 
+father's. He tells <span style="color:#46503C">Jessy</span> that she has a decision to make. She has to choose 
+between being <span style="color:#46503C">Jessy</span> the Bard and Jessileana Perrora, Queen of Ered. They 
+return to the palace and reuinte with <span style="color:#6C5078">Pip</span>, <span style="color:#BAE8FF">Lia</span> and <span style="color:#141524">Renfri</span>. Sylmenor invites 
+them to dinner with Orilana and Taris.
+</div>
