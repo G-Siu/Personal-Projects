@@ -1,0 +1,402 @@
+[
+  {
+    "Polyethylene": 0.01,
+    "Height": 2.11,
+    "Length": 2.41,
+    "Width": 1.71,
+    "Volume of PE": 0.128,
+    "Mass of PE": 127.521
+  },
+  {
+    "Polyethylene": 0.02,
+    "Height": 2.12,
+    "Length": 2.42,
+    "Width": 1.72,
+    "Volume of PE": 0.256,
+    "Mass of PE": 256.288
+  },
+  {
+    "Polyethylene": 0.03,
+    "Height": 2.13,
+    "Length": 2.43,
+    "Width": 1.73,
+    "Volume of PE": 0.386,
+    "Mass of PE": 386.307
+  },
+  {
+    "Polyethylene": 0.04,
+    "Height": 2.14,
+    "Length": 2.44,
+    "Width": 1.74,
+    "Volume of PE": 0.518,
+    "Mass of PE": 517.584
+  },
+  {
+    "Polyethylene": 0.05,
+    "Height": 2.15,
+    "Length": 2.45,
+    "Width": 1.75,
+    "Volume of PE": 0.65,
+    "Mass of PE": 650.125
+  },
+  {
+    "Polyethylene": 0.06,
+    "Height": 2.16,
+    "Length": 2.46,
+    "Width": 1.76,
+    "Volume of PE": 0.784,
+    "Mass of PE": 783.936
+  },
+  {
+    "Polyethylene": 0.07,
+    "Height": 2.17,
+    "Length": 2.47,
+    "Width": 1.77,
+    "Volume of PE": 0.919,
+    "Mass of PE": 919.023
+  },
+  {
+    "Polyethylene": 0.08,
+    "Height": 2.18,
+    "Length": 2.48,
+    "Width": 1.78,
+    "Volume of PE": 1.055,
+    "Mass of PE": 1055.392
+  },
+  {
+    "Polyethylene": 0.09,
+    "Height": 2.19,
+    "Length": 2.49,
+    "Width": 1.79,
+    "Volume of PE": 1.193,
+    "Mass of PE": 1193.049
+  },
+  {
+    "Polyethylene": 0.1,
+    "Height": 2.2,
+    "Length": 2.5,
+    "Width": 1.8,
+    "Volume of PE": 1.332,
+    "Mass of PE": 1332.000
+  },
+  {
+    "Polyethylene": 0.11,
+    "Height": 2.21,
+    "Length": 2.51,
+    "Width": 1.81,
+    "Volume of PE": 1.472,
+    "Mass of PE": 1472.251
+  },
+  {
+    "Polyethylene": 0.12,
+    "Height": 2.22,
+    "Length": 2.52,
+    "Width": 1.82,
+    "Volume of PE": 1.614,
+    "Mass of PE": 1613.808
+  },
+  {
+    "Polyethylene": 0.13,
+    "Height": 2.23,
+    "Length": 2.53,
+    "Width": 1.83,
+    "Volume of PE": 1.757,
+    "Mass of PE": 1756.677
+  },
+  {
+    "Polyethylene": 0.14,
+    "Height": 2.24,
+    "Length": 2.54,
+    "Width": 1.84,
+    "Volume of PE": 1.901,
+    "Mass of PE": 1900.864
+  },
+  {
+    "Polyethylene": 0.15,
+    "Height": 2.25,
+    "Length": 2.55,
+    "Width": 1.85,
+    "Volume of PE": 2.046,
+    "Mass of PE": 2046.375
+  },
+  {
+    "Polyethylene": 0.16,
+    "Height": 2.26,
+    "Length": 2.56,
+    "Width": 1.86,
+    "Volume of PE": 2.193,
+    "Mass of PE": 2193.216
+  },
+  {
+    "Polyethylene": 0.17,
+    "Height": 2.27,
+    "Length": 2.57,
+    "Width": 1.87,
+    "Volume of PE": 2.341,
+    "Mass of PE": 2341.393
+  },
+  {
+    "Polyethylene": 0.18,
+    "Height": 2.28,
+    "Length": 2.58,
+    "Width": 1.88,
+    "Volume of PE": 2.491,
+    "Mass of PE": 2490.912
+  },
+  {
+    "Polyethylene": 0.19,
+    "Height": 2.29,
+    "Length": 2.59,
+    "Width": 1.89,
+    "Volume of PE": 2.642,
+    "Mass of PE": 2641.779
+  },
+  {
+    "Polyethylene": 0.2,
+    "Height": 2.3,
+    "Length": 2.6,
+    "Width": 1.9,
+    "Volume of PE": 2.794,
+    "Mass of PE": 2794.000
+  },
+  {
+    "Polyethylene": 0.21,
+    "Height": 2.31,
+    "Length": 2.61,
+    "Width": 1.91,
+    "Volume of PE": 2.948,
+    "Mass of PE": 2947.581
+  },
+  {
+    "Polyethylene": 0.22,
+    "Height": 2.32,
+    "Length": 2.62,
+    "Width": 1.92,
+    "Volume of PE": 3.103,
+    "Mass of PE": 3102.528
+  },
+  {
+    "Polyethylene": 0.23,
+    "Height": 2.33,
+    "Length": 2.63,
+    "Width": 1.93,
+    "Volume of PE": 3.259,
+    "Mass of PE": 3258.847
+  },
+  {
+    "Polyethylene": 0.24,
+    "Height": 2.34,
+    "Length": 2.64,
+    "Width": 1.94,
+    "Volume of PE": 3.417,
+    "Mass of PE": 3416.544
+  },
+  {
+    "Polyethylene": 0.25,
+    "Height": 2.35,
+    "Length": 2.65,
+    "Width": 1.95,
+    "Volume of PE": 3.576,
+    "Mass of PE": 3575.625
+  },
+  {
+    "Polyethylene": 0.26,
+    "Height": 2.36,
+    "Length": 2.66,
+    "Width": 1.96,
+    "Volume of PE": 3.736,
+    "Mass of PE": 3736.096
+  },
+  {
+    "Polyethylene": 0.27,
+    "Height": 2.37,
+    "Length": 2.67,
+    "Width": 1.97,
+    "Volume of PE": 3.898,
+    "Mass of PE": 3897.963
+  },
+  {
+    "Polyethylene": 0.28,
+    "Height": 2.38,
+    "Length": 2.68,
+    "Width": 1.98,
+    "Volume of PE": 4.061,
+    "Mass of PE": 4061.232
+  },
+  {
+    "Polyethylene": 0.29,
+    "Height": 2.39,
+    "Length": 2.69,
+    "Width": 1.99,
+    "Volume of PE": 4.226,
+    "Mass of PE": 4225.909
+  },
+  {
+    "Polyethylene": 0.3,
+    "Height": 2.4,
+    "Length": 2.7,
+    "Width": 2.0,
+    "Volume of PE": 4.392,
+    "Mass of PE": 4392.000
+  },
+  {
+    "Polyethylene": 0.31,
+    "Height": 2.41,
+    "Length": 2.71,
+    "Width": 2.01,
+    "Volume of PE": 4.56,
+    "Mass of PE": 4559.511
+  },
+  {
+    "Polyethylene": 0.32,
+    "Height": 2.42,
+    "Length": 2.72,
+    "Width": 2.02,
+    "Volume of PE": 4.728,
+    "Mass of PE": 4728.448
+  },
+  {
+    "Polyethylene": 0.33,
+    "Height": 2.43,
+    "Length": 2.73,
+    "Width": 2.03,
+    "Volume of PE": 4.899,
+    "Mass of PE": 4898.817
+  },
+  {
+    "Polyethylene": 0.34,
+    "Height": 2.44,
+    "Length": 2.74,
+    "Width": 2.04,
+    "Volume of PE": 5.071,
+    "Mass of PE": 5070.624
+  },
+  {
+    "Polyethylene": 0.35,
+    "Height": 2.45,
+    "Length": 2.75,
+    "Width": 2.05,
+    "Volume of PE": 5.244,
+    "Mass of PE": 5243.875
+  },
+  {
+    "Polyethylene": 0.36,
+    "Height": 2.46,
+    "Length": 2.76,
+    "Width": 2.06,
+    "Volume of PE": 5.419,
+    "Mass of PE": 5418.576
+  },
+  {
+    "Polyethylene": 0.37,
+    "Height": 2.47,
+    "Length": 2.77,
+    "Width": 2.07,
+    "Volume of PE": 5.595,
+    "Mass of PE": 5594.733
+  },
+  {
+    "Polyethylene": 0.38,
+    "Height": 2.48,
+    "Length": 2.78,
+    "Width": 2.08,
+    "Volume of PE": 5.772,
+    "Mass of PE": 5772.352
+  },
+  {
+    "Polyethylene": 0.39,
+    "Height": 2.49,
+    "Length": 2.79,
+    "Width": 2.09,
+    "Volume of PE": 5.951,
+    "Mass of PE": 5951.439
+  },
+  {
+    "Polyethylene": 0.4,
+    "Height": 2.5,
+    "Length": 2.8,
+    "Width": 2.1,
+    "Volume of PE": 6.132,
+    "Mass of PE": 6132.000
+  },
+  {
+    "Polyethylene": 0.41,
+    "Height": 2.51,
+    "Length": 2.81,
+    "Width": 2.11,
+    "Volume of PE": 6.314,
+    "Mass of PE": 6314.041
+  },
+  {
+    "Polyethylene": 0.42,
+    "Height": 2.52,
+    "Length": 2.82,
+    "Width": 2.12,
+    "Volume of PE": 6.498,
+    "Mass of PE": 6497.568
+  },
+  {
+    "Polyethylene": 0.43,
+    "Height": 2.53,
+    "Length": 2.83,
+    "Width": 2.13,
+    "Volume of PE": 6.683,
+    "Mass of PE": 6682.587
+  },
+  {
+    "Polyethylene": 0.44,
+    "Height": 2.54,
+    "Length": 2.84,
+    "Width": 2.14,
+    "Volume of PE": 6.869,
+    "Mass of PE": 6869.104
+  },
+  {
+    "Polyethylene": 0.45,
+    "Height": 2.55,
+    "Length": 2.85,
+    "Width": 2.15,
+    "Volume of PE": 7.057,
+    "Mass of PE": 7057.125
+  },
+  {
+    "Polyethylene": 0.46,
+    "Height": 2.56,
+    "Length": 2.86,
+    "Width": 2.16,
+    "Volume of PE": 7.247,
+    "Mass of PE": 7246.656
+  },
+  {
+    "Polyethylene": 0.47,
+    "Height": 2.57,
+    "Length": 2.87,
+    "Width": 2.17,
+    "Volume of PE": 7.438,
+    "Mass of PE": 7437.703
+  },
+  {
+    "Polyethylene": 0.48,
+    "Height": 2.58,
+    "Length": 2.88,
+    "Width": 2.18,
+    "Volume of PE": 7.63,
+    "Mass of PE": 7630.272
+  },
+  {
+    "Polyethylene": 0.49,
+    "Height": 2.59,
+    "Length": 2.89,
+    "Width": 2.19,
+    "Volume of PE": 7.824,
+    "Mass of PE": 7824.369
+  },
+  {
+    "Polyethylene": 0.5,
+    "Height": 2.6,
+    "Length": 2.9,
+    "Width": 2.2,
+    "Volume of PE": 8.02,
+    "Mass of PE": 8020.000
+  }
+]
